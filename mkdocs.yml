@@ -1,7 +1,6 @@
 site_name: Citrix AppDNA SDK Reference
 site_description: Reference guide for Citrix AppDNA SDK 7.9
-theme_dir: test_theme
-repo_url: https://github.com/ajitchelat/AppDNA-SDK.git
+theme: readthedocs
 markdown_extensions:
   - admonition
   - codehilite
