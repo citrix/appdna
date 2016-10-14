@@ -1,0 +1,35 @@
+# ApplicationService.GetCountAsync Method 
+ 
+
+Returns a collection with all the <a href="1779bfff-4b29-0f26-8a09-10acdd530bbc">Application</a> objects.
+
+**Namespace:**&nbsp;[Citrix.SDK.AppDNA](index.md)<br />**Assembly:**&nbsp;Citrix.SDK.AppDNA (in Citrix.SDK.AppDNA.dll) Version: 7.11.0.0 (7.11.0.0)
+
+## Syntax
+
+**C#**
+```csharp
+public Task<int> GetCountAsync(
+	IEnumerable<SourceCategory> categories
+)
+```
+
+**VB**
+```vbnet
+Public Function GetCountAsync ( 
+	categories As IEnumerable(Of SourceCategory)
+) As Task(Of Integer)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>categories</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/9eekhta0" target="_blank">System.Collections.Generic.IEnumerable</a>(<a href="d1525bbc-707f-68a9-ba63-ddd6fd905590">SourceCategory</a>)<br /></dd></dl>
+
+#### Return Value
+Type: <a href="http://msdn2.microsoft.com/en-us/library/dd321424" target="_blank">Task</a>(<a href="http://msdn2.microsoft.com/en-us/library/td2s409d" target="_blank">Int32</a>)<br />Returns a collection with all the <a href="1779bfff-4b29-0f26-8a09-10acdd530bbc">Application</a> objects.
+
+## See Also
+
+
+#### Reference
+<a href="4190f2b6-31d1-9744-132e-b12e165db1a3">ApplicationService Class</a><br /><a href="fe2d265b-410b-8b11-1eb4-a790e0b062bf">Citrix.SDK.AppDNA Namespace</a><br />

@@ -1,0 +1,33 @@
+# SettingsService Methods
+ 
+
+The <a href="0395b3d2-0f6d-2a87-d82c-94c7b72a8541">SettingsService</a> type exposes the following members.
+
+
+## Methods
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/bsc2ak47" target="_blank">Equals</a></td><td>
+Determines whether the specified <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a> is equal to the current <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Protected method](media/protmethod.gif "Protected method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/4k87zsw7" target="_blank">Finalize</a></td><td>
+Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="0df90529-d5bd-01ca-7d75-56ca8c962a96">GetBrandingEnabled</a></td><td>
+Gets whether the report branding is enabled.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="14ef827a-0536-eb68-af16-544a07de3ae1">GetBrandingLogo</a></td><td>
+Gets the branding logo currently in use.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="d1a3515c-5d47-d55d-2e47-be09201e2b18">GetBrandingVisible</a></td><td>
+Gets whether the report branding is visible.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/zdee4b3y" target="_blank">GetHashCode</a></td><td>
+Serves as a hash function for a particular type.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a></td><td>
+Gets the <a href="http://msdn2.microsoft.com/en-us/library/42892f65" target="_blank">Type</a> of the current instance.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Protected method](media/protmethod.gif "Protected method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/57ctke0a" target="_blank">MemberwiseClone</a></td><td>
+Creates a shallow copy of the current <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="45e9aa4a-57d2-6806-0fb6-30b4f164c50d">SetBrandingEnabled</a></td><td>
+Sets whether the report branding is enabled.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="de69706c-a992-5325-3bd5-e11efcaad7ba">SetBrandingLogo(Image)</a></td><td>
+Sets the new logo for branding to use.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="09ce3b67-79c8-1035-fa81-6f17e5a853e3">SetBrandingLogo(String)</a></td><td>
+Set the logo file for branded reports.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a></td><td>
+Returns a string that represents the current object.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr></table>&nbsp;
+<a href="#settingsservice-methods">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="0395b3d2-0f6d-2a87-d82c-94c7b72a8541">SettingsService Class</a><br /><a href="fe2d265b-410b-8b11-1eb4-a790e0b062bf">Citrix.SDK.AppDNA Namespace</a><br />
