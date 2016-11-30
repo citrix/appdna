@@ -1,6 +1,6 @@
 site_name: Citrix AppDNA SDK Reference
 site_description: Reference guide for Citrix AppDNA SDK 7.9
-theme_dir: theme
+theme_dir: theme_multi
 markdown_extensions:
   - admonition
   - codehilite
@@ -9,13 +9,6 @@ markdown_extensions:
 
 pages:
 - Citrix AppDNA SDK: index.md
-  - Develop using the SDK: access.md
-    - Connect to the AppDNA server: dna-sdk-connect-server.md
-      - Import applications: dna-sdk-import.md
-        - Use application attributes: dna-sdk-app-attributes.md
-      - Analyze applications: dna-sdk-analyze.md
-      - Use report data: dna-sdk-report-data.md
-  - Data available using the SDK: data.md
 - Algorithm Class:
     - Algorithm Class: 00083171-3db1-bd94-3ed1-e2b5477edbe0.md
     - Algorithm Methods:
