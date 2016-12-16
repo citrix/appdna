@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\Citrix.SDK.AppDNA.Help.shfbproj" started="9/12/2016 4:44:33 PM">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
+Locating components in the following folder(s):
+    D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\
+    C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\
+Framework reflection data location: C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\.NETFramework
+Using presentation style &#39;Markdown&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown&#39;
+Loading and initializing plug-ins...
+Table of Contents Exclusion Version 2015.10.10.0
+Copyright &#169; 2006-2015, Eric Woodruff, All Rights Reserved
+-------------------------------
+Clearing any prior web/markdown output...
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA\bin\Debug\Citrix.SDK.AppDNA.dll
+    Found assembly &#39;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA\bin\Debug\Citrix.SDK.AppDNA.dll&#39;
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA\bin\Debug\Citrix.SDK.AppDNA.xml
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.AppDisks\bin\Debug\Citrix.SDK.AppDNA.Solutions.AppDisks.dll
+    Found assembly &#39;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.AppDisks\bin\Debug\Citrix.SDK.AppDNA.Solutions.AppDisks.dll&#39;
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.AppDisks\bin\Debug\Citrix.SDK.AppDNA.Solutions.AppDisks.xml
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.AppV\bin\Debug\Citrix.SDK.AppDNA.Solutions.AppV.dll
+    Found assembly &#39;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.AppV\bin\Debug\Citrix.SDK.AppDNA.Solutions.AppV.dll&#39;
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.AppV\bin\Debug\Citrix.SDK.AppDNA.Solutions.AppV.xml
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.BuildAssessment\bin\Debug\Citrix.SDK.AppDNA.Solutions.BuildAssessment.dll
+    Found assembly &#39;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.BuildAssessment\bin\Debug\Citrix.SDK.AppDNA.Solutions.BuildAssessment.dll&#39;
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.BuildAssessment\bin\Debug\Citrix.SDK.AppDNA.Solutions.BuildAssessment.xml
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.Interop\bin\Debug\Citrix.SDK.AppDNA.Solutions.Interop.dll
+    Found assembly &#39;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.Interop\bin\Debug\Citrix.SDK.AppDNA.Solutions.Interop.dll&#39;
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.Interop\bin\Debug\Citrix.SDK.AppDNA.Solutions.Interop.xml
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis\bin\Debug\Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.dll
+    Found assembly &#39;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis\bin\Debug\Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.dll&#39;
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis\bin\Debug\Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.xml
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.XenAdoption\bin\Debug\Citrix.SDK.AppDNA.Solutions.XenAdoption.dll
+    Found assembly &#39;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.XenAdoption\bin\Debug\Citrix.SDK.AppDNA.Solutions.XenAdoption.dll&#39;
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.XenAdoption\bin\Debug\Citrix.SDK.AppDNA.Solutions.XenAdoption.xml
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.XenUpgrade\bin\Debug\Citrix.SDK.AppDNA.Solutions.XenUpgrade.dll
+    Found assembly &#39;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.XenUpgrade\bin\Debug\Citrix.SDK.AppDNA.Solutions.XenUpgrade.dll&#39;
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.XenUpgrade\bin\Debug\Citrix.SDK.AppDNA.Solutions.XenUpgrade.xml
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.Xen.Common\bin\Debug\Citrix.SDK.AppDNA.Solutions.Xen.Common.dll
+    Found assembly &#39;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.Xen.Common\bin\Debug\Citrix.SDK.AppDNA.Solutions.Xen.Common.dll&#39;
+Source: D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.Xen.Common\bin\Debug\Citrix.SDK.AppDNA.Solutions.Xen.Common.XML
+
+Copying XML comments files
+    D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA\bin\Debug\Citrix.SDK.AppDNA.XML -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.XML
+    D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.AppDisks\bin\Debug\Citrix.SDK.AppDNA.Solutions.AppDisks.XML -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.AppDisks.XML
+    D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.AppV\bin\Debug\Citrix.SDK.AppDNA.Solutions.AppV.XML -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.AppV.XML
+    D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.BuildAssessment\bin\Debug\Citrix.SDK.AppDNA.Solutions.BuildAssessment.XML -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.BuildAssessment.XML
+    D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.Interop\bin\Debug\Citrix.SDK.AppDNA.Solutions.Interop.XML -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.Interop.XML
+    D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis\bin\Debug\Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.XML -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.XML
+    D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.XenAdoption\bin\Debug\Citrix.SDK.AppDNA.Solutions.XenAdoption.XML -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.XenAdoption.XML
+    D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.XenUpgrade\bin\Debug\Citrix.SDK.AppDNA.Solutions.XenUpgrade.XML -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.XenUpgrade.XML
+    D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_SOL\Citrix.SDK.AppDNA.Solutions.Xen.Common\bin\Debug\Citrix.SDK.AppDNA.Solutions.Xen.Common.XML -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.Xen.Common.XML
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+    Last step completed in 00:00:00.0150
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0240
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - GenerateRefInfo.proj]
+Build started 9/12/2016 4:44:35 PM.
+The target &quot;_ConvertPdbFiles&quot; listed in a BeforeTargets attribute at &quot;C:\Program Files (x86)\MSBuild\4.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)&quot; does not exist in the project, and will be ignored.
+The target &quot;_CollectPdbFiles&quot; listed in an AfterTargets attribute at &quot;C:\Program Files (x86)\MSBuild\4.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)&quot; does not exist in the project, and will be ignored.
+The target &quot;_CollectMdbFiles&quot; listed in a BeforeTargets attribute at &quot;C:\Program Files (x86)\MSBuild\4.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (40,38)&quot; does not exist in the project, and will be ignored.
+The target &quot;_CopyMdbFiles&quot; listed in an AfterTargets attribute at &quot;C:\Program Files (x86)\MSBuild\4.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (40,71)&quot; does not exist in the project, and will be ignored.
+Project &quot;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
+PrepareForBuild:
+  Creating directory &quot;obj\Debug\&quot;.
+GenerateRefInfo:
+  MRefBuilder (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Loaded 9 assemblies for reflection and 1 dependency assemblies.
+  Wrote information on 17 namespaces, 281 types, and 2165 members
+  Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
+Done Building Project &quot;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\GenerateRefInfo.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.19
+    Last step completed in 00:00:09.6100
+</buildStep>
+<buildStep step="TransformReflectionInfo">
+Transforming reflection output...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - TransformManifest.proj]
+Build started 9/12/2016 4:44:44 PM.
+Project &quot;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\TransformManifest.proj&quot; on node 1 (default targets).
+TransformManifest:
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
+  Copying file from &quot;reflection.xml&quot; to &quot;reflection.nofilenames&quot;.
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\AddFilenames.xsl&#39;.
+    Unique name M_Citrix_SDK_AppDNA_Algorithm_Equals_1 generated for M:Citrix.SDK.AppDNA.Algorithm.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_AlgorithmActionDetail_Equals_1 generated for M:Citrix.SDK.AppDNA.AlgorithmActionDetail.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Analysis_GetReport_1 generated for M:Citrix.SDK.AppDNA.Analysis.GetReport(Citrix.SDK.AppDNA.ReportConfiguration)
+    Unique name M_Citrix_SDK_AppDNA_Analysis_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.Analysis.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_AppDNAException__ctor_1 generated for M:Citrix.SDK.AppDNA.AppDNAException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+    Unique name M_Citrix_SDK_AppDNA_AppDNAException__ctor_2 generated for M:Citrix.SDK.AppDNA.AppDNAException.#ctor(System.String)
+    Unique name M_Citrix_SDK_AppDNA_AppDNAException__ctor_3 generated for M:Citrix.SDK.AppDNA.AppDNAException.#ctor(System.String,System.Exception)
+    Unique name M_Citrix_SDK_AppDNA_Application_AddRequiredApplications_1 generated for M:Citrix.SDK.AppDNA.Application.AddRequiredApplications(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application})
+    Unique name M_Citrix_SDK_AppDNA_Application_Delete_1 generated for M:Citrix.SDK.AppDNA.Application.Delete(Citrix.SDK.AppDNA.ApplicationDeleteOptions)
+    Unique name M_Citrix_SDK_AppDNA_Application_Equals_1 generated for M:Citrix.SDK.AppDNA.Application.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Application_GetReport_1 generated for M:Citrix.SDK.AppDNA.Application.GetReport(System.String)
+    Unique name M_Citrix_SDK_AppDNA_Application_Import_1 generated for M:Citrix.SDK.AppDNA.Application.Import(System.String,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_Application_Import_2 generated for M:Citrix.SDK.AppDNA.Application.Import(System.String,System.Collections.Generic.IEnumerable{System.String},Citrix.SDK.AppDNA.ApplicationImportConfiguration,System.String@,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_Application_RemoveRequiredApplications_1 generated for M:Citrix.SDK.AppDNA.Application.RemoveRequiredApplications(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application})
+    Unique name M_Citrix_SDK_AppDNA_Application_SetAttribute__1_1 generated for M:Citrix.SDK.AppDNA.Application.SetAttribute``1(Citrix.SDK.AppDNA.ApplicationAttributeDefinition,``0,Citrix.SDK.AppDNA.ReportConfiguration)
+    Unique name M_Citrix_SDK_AppDNA_Application_SetAttribute_1 generated for M:Citrix.SDK.AppDNA.Application.SetAttribute(System.String,Citrix.SDK.AppDNA.Ragu,System.String)
+    Unique name M_Citrix_SDK_AppDNA_Application_SetAttribute_2 generated for M:Citrix.SDK.AppDNA.Application.SetAttribute(System.String,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_Application_SetAttribute_3 generated for M:Citrix.SDK.AppDNA.Application.SetAttribute(System.String,System.Boolean,System.String)
+    Unique name M_Citrix_SDK_AppDNA_Application_SetAttribute_4 generated for M:Citrix.SDK.AppDNA.Application.SetAttribute(System.String,System.DateTime)
+    Unique name M_Citrix_SDK_AppDNA_Application_SetAttribute_5 generated for M:Citrix.SDK.AppDNA.Application.SetAttribute(System.String,System.DateTime,System.String)
+    Unique name M_Citrix_SDK_AppDNA_Application_SetAttribute_6 generated for M:Citrix.SDK.AppDNA.Application.SetAttribute(System.String,System.Double)
+    Unique name M_Citrix_SDK_AppDNA_Application_SetAttribute_7 generated for M:Citrix.SDK.AppDNA.Application.SetAttribute(System.String,System.Double,System.String)
+    Unique name M_Citrix_SDK_AppDNA_Application_SetAttribute_8 generated for M:Citrix.SDK.AppDNA.Application.SetAttribute(System.String,System.String)
+    Unique name M_Citrix_SDK_AppDNA_Application_SetAttribute_9 generated for M:Citrix.SDK.AppDNA.Application.SetAttribute(System.String,System.String,System.String)
+    Unique name M_Citrix_SDK_AppDNA_Application_SetAttribute__1_2 generated for M:Citrix.SDK.AppDNA.Application.SetAttribute``1(System.String,``0,Citrix.SDK.AppDNA.ReportConfiguration)
+    Unique name M_Citrix_SDK_AppDNA_Application_SetProductDetails_1 generated for M:Citrix.SDK.AppDNA.Application.SetProductDetails(System.String,System.String,System.Version)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationAttribute_Equals_1 generated for M:Citrix.SDK.AppDNA.ApplicationAttribute.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_Equals_1 generated for M:Citrix.SDK.AppDNA.ApplicationAttributeDefinition.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_Delete_1 generated for M:Citrix.SDK.AppDNA.ApplicationAttributeDefinitionService.Delete(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ApplicationAttributeDefinition})
+    Unique name M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_Get_1 generated for M:Citrix.SDK.AppDNA.ApplicationAttributeDefinitionService.Get(System.Collections.Generic.IEnumerable{System.String})
+    Unique name M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_Get_2 generated for M:Citrix.SDK.AppDNA.ApplicationAttributeDefinitionService.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationForm_Equals_1 generated for M:Citrix.SDK.AppDNA.ApplicationForm.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationFormDefinition_Equals_1 generated for M:Citrix.SDK.AppDNA.ApplicationFormDefinition.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationFormService_Get_1 generated for M:Citrix.SDK.AppDNA.ApplicationFormService.Get(Citrix.SDK.AppDNA.Application)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationFormService_Get_2 generated for M:Citrix.SDK.AppDNA.ApplicationFormService.Get(Citrix.SDK.AppDNA.Application,Citrix.SDK.AppDNA.ApplicationFormDefinition)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationFormService_Get_3 generated for M:Citrix.SDK.AppDNA.ApplicationFormService.Get(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application})
+    Unique name M_Citrix_SDK_AppDNA_ApplicationGroup_Equals_1 generated for M:Citrix.SDK.AppDNA.ApplicationGroup.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationGrouping_Add_1 generated for M:Citrix.SDK.AppDNA.ApplicationGrouping.Add(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application})
+    Unique name M_Citrix_SDK_AppDNA_ApplicationGrouping_Remove_1 generated for M:Citrix.SDK.AppDNA.ApplicationGrouping.Remove(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application})
+    Unique name M_Citrix_SDK_AppDNA_ApplicationGroupService_Create_1 generated for M:Citrix.SDK.AppDNA.ApplicationGroupService.Create(System.String,System.String,Citrix.SDK.AppDNA.ApplicationGroup)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationGroupService_Delete_1 generated for M:Citrix.SDK.AppDNA.ApplicationGroupService.Delete(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ApplicationGroup})
+    Unique name M_Citrix_SDK_AppDNA_ApplicationGroupService_Get_1 generated for M:Citrix.SDK.AppDNA.ApplicationGroupService.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationImportConfiguration__ctor_1 generated for M:Citrix.SDK.AppDNA.ApplicationImportConfiguration.#ctor(System.String)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationImportConfiguration__ctor_2 generated for M:Citrix.SDK.AppDNA.ApplicationImportConfiguration.#ctor(System.String,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Create_1 generated for M:Citrix.SDK.AppDNA.ApplicationService.Create(System.String,System.String,System.String)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Create_2 generated for M:Citrix.SDK.AppDNA.ApplicationService.Create(System.String,System.String,System.String,System.String)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Delete_1 generated for M:Citrix.SDK.AppDNA.ApplicationService.Delete(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application})
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Delete_2 generated for M:Citrix.SDK.AppDNA.ApplicationService.Delete(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},Citrix.SDK.AppDNA.ApplicationDeleteOptions)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Get_1 generated for M:Citrix.SDK.AppDNA.ApplicationService.Get(Citrix.SDK.AppDNA.ApplicationFilter,System.Object)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Get_2 generated for M:Citrix.SDK.AppDNA.ApplicationService.Get(Citrix.SDK.AppDNA.ApplicationFilter,System.Object,System.Int32)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Get_3 generated for M:Citrix.SDK.AppDNA.ApplicationService.Get(Citrix.SDK.AppDNA.ApplicationFilter,System.Object,System.Int32,System.Int32)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Get_4 generated for M:Citrix.SDK.AppDNA.ApplicationService.Get(Citrix.SDK.AppDNA.ApplicationFilter,System.Object,System.Int32,System.Int32,Citrix.SDK.AppDNA.ApplicationFilter)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Get_5 generated for M:Citrix.SDK.AppDNA.ApplicationService.Get(System.Collections.Generic.IEnumerable{System.Int64})
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Get_6 generated for M:Citrix.SDK.AppDNA.ApplicationService.Get(System.Int64)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Get_7 generated for M:Citrix.SDK.AppDNA.ApplicationService.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_GetAllAttachmentsMetaData_1 generated for M:Citrix.SDK.AppDNA.ApplicationService.GetAllAttachmentsMetaData(System.Int32)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_GetAsync_1 generated for M:Citrix.SDK.AppDNA.ApplicationService.GetAsync(Citrix.SDK.AppDNA.ApplicationFilter,System.Object)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_GetAsync_2 generated for M:Citrix.SDK.AppDNA.ApplicationService.GetAsync(Citrix.SDK.AppDNA.ApplicationFilter,System.Object,System.Int32)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_GetAsync_3 generated for M:Citrix.SDK.AppDNA.ApplicationService.GetAsync(Citrix.SDK.AppDNA.ApplicationFilter,System.Object,System.Int32,System.Int32)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_GetAsync_4 generated for M:Citrix.SDK.AppDNA.ApplicationService.GetAsync(Citrix.SDK.AppDNA.ApplicationFilter,System.Object,System.Int32,System.Int32,Citrix.SDK.AppDNA.ApplicationFilter)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_GetAsync_5 generated for M:Citrix.SDK.AppDNA.ApplicationService.GetAsync(System.Collections.Generic.IEnumerable{System.Int64})
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Import_1 generated for M:Citrix.SDK.AppDNA.ApplicationService.Import(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ImportSourceDetails},Citrix.SDK.AppDNA.ApplicationImportConfiguration,System.Nullable{System.Int64},System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Import_2 generated for M:Citrix.SDK.AppDNA.ApplicationService.Import(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ImportSourceDetails},System.String)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Import_3 generated for M:Citrix.SDK.AppDNA.ApplicationService.Import(System.String,Citrix.SDK.AppDNA.ApplicationImportConfiguration,System.String@)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Import_4 generated for M:Citrix.SDK.AppDNA.ApplicationService.Import(System.String,System.Collections.Generic.IEnumerable{System.String},Citrix.SDK.AppDNA.ApplicationImportConfiguration,System.String@)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Import_5 generated for M:Citrix.SDK.AppDNA.ApplicationService.Import(System.String,System.Collections.Generic.IEnumerable{System.String},System.String,System.String@)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_Import_6 generated for M:Citrix.SDK.AppDNA.ApplicationService.Import(System.String,System.String,System.String@)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_ImportWeb_1 generated for M:Citrix.SDK.AppDNA.ApplicationService.ImportWeb(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ImportSourceDetails},System.String)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_ImportWeb_2 generated for M:Citrix.SDK.AppDNA.ApplicationService.ImportWeb(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.WebImportSourceDetails},Citrix.SDK.AppDNA.WebApplicationImportConfiguration)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_ImportWeb_3 generated for M:Citrix.SDK.AppDNA.ApplicationService.ImportWeb(System.String,Citrix.SDK.AppDNA.ApplicationImportConfiguration,System.String@)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_ImportWeb_4 generated for M:Citrix.SDK.AppDNA.ApplicationService.ImportWeb(System.String,System.String,System.String@)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_InstallCapture_1 generated for M:Citrix.SDK.AppDNA.ApplicationService.InstallCapture(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.InstallCaptureSourceDetails},Citrix.SDK.AppDNA.InstallCaptureConfiguration)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_InstallCapture_2 generated for M:Citrix.SDK.AppDNA.ApplicationService.InstallCapture(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.InstallCaptureSourceDetails},Citrix.SDK.AppDNA.InstallCaptureConfiguration,System.Nullable{System.Int64})
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_InstallCapture_3 generated for M:Citrix.SDK.AppDNA.ApplicationService.InstallCapture(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.InstallCaptureSourceDetails},System.String,System.String,System.String)
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_SetAttachment_1 generated for M:Citrix.SDK.AppDNA.ApplicationService.SetAttachment(Citrix.SDK.AppDNA.Application,System.String,System.Byte[],System.Byte[])
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_SetAttachment_2 generated for M:Citrix.SDK.AppDNA.ApplicationService.SetAttachment(System.Int32,System.String,System.Byte[],System.Byte[])
+    Unique name M_Citrix_SDK_AppDNA_ApplicationService_SetProfilingData_1 generated for M:Citrix.SDK.AppDNA.ApplicationService.SetProfilingData(Citrix.SDK.AppDNA.Application,System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ApplicationPerformanceCounter})
+    Unique name M_Citrix_SDK_AppDNA_AttributeStringList_Equals_1 generated for M:Citrix.SDK.AppDNA.AttributeStringList.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_AttributeStringListService_Get_1 generated for M:Citrix.SDK.AppDNA.AttributeStringListService.Get(System.Int32)
+    Unique name M_Citrix_SDK_AppDNA_AttributeStringListService_Get_2 generated for M:Citrix.SDK.AppDNA.AttributeStringListService.Get(System.Int64)
+    Unique name M_Citrix_SDK_AppDNA_Import_GetApplication_1 generated for M:Citrix.SDK.AppDNA.Import.GetApplication(Citrix.SDK.AppDNA.IImportDetails,System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_Import_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.Import.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_ImportSourceDetails__ctor_1 generated for M:Citrix.SDK.AppDNA.ImportSourceDetails.#ctor(System.String,System.Collections.Generic.IEnumerable{System.String})
+    Unique name M_Citrix_SDK_AppDNA_OrderedApplicationAttributeDefinition_Equals_1 generated for M:Citrix.SDK.AppDNA.OrderedApplicationAttributeDefinition.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_OrderedStaticAttribute_Equals_1 generated for M:Citrix.SDK.AppDNA.OrderedStaticAttribute.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_OSImage_Equals_1 generated for M:Citrix.SDK.AppDNA.OSImage.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_OSImageService_Delete_1 generated for M:Citrix.SDK.AppDNA.OSImageService.Delete(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSImage})
+    Unique name M_Citrix_SDK_AppDNA_OSImageService_Import_1 generated for M:Citrix.SDK.AppDNA.OSImageService.Import(Citrix.SDK.AppDNA.ImportOSSourceDetails,System.String,System.String@,System.Threading.SynchronizationContext)
+    Unique name M_Citrix_SDK_AppDNA_OSImport_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.OSImport.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_OSPatch_Equals_1 generated for M:Citrix.SDK.AppDNA.OSPatch.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_OSPatchFile_Equals_1 generated for M:Citrix.SDK.AppDNA.OSPatchFile.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_OSPatchService_Get_1 generated for M:Citrix.SDK.AppDNA.OSPatchService.Get(System.Collections.Generic.IEnumerable{System.Int64})
+    Unique name M_Citrix_SDK_AppDNA_ProcessingState_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.ProcessingState.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfiguration_Analyze_1 generated for M:Citrix.SDK.AppDNA.ReportConfiguration.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.ComponentModel.PropertyChangedEventHandler)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfiguration_Analyze_2 generated for M:Citrix.SDK.AppDNA.ReportConfiguration.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfiguration_GetReport_1 generated for M:Citrix.SDK.AppDNA.ReportConfiguration.GetReport(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application})
+    Unique name M_Citrix_SDK_AppDNA_ReportConfiguration_GetReport_2 generated for M:Citrix.SDK.AppDNA.ReportConfiguration.GetReport(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Algorithm})
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_1 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},Citrix.SDK.AppDNA.Analysis)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_2 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},Citrix.SDK.AppDNA.Analysis,System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_3 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_4 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch})
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_5 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},Citrix.SDK.AppDNA.Analysis)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_6 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},Citrix.SDK.AppDNA.Analysis,System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_7 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},Citrix.SDK.AppDNA.Analysis,System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_8 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_9 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_10 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_11 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext,System.Boolean,Citrix.SDK.AppDNA.Analysis)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_12 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.ComponentModel.PropertyChangedEventHandler)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_13 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Analyze_14 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Analyze(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_1 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},Citrix.SDK.AppDNA.Analysis)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_2 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},Citrix.SDK.AppDNA.Analysis,System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_3 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_4 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch})
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_5 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},Citrix.SDK.AppDNA.Analysis)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_6 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},Citrix.SDK.AppDNA.Analysis,System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_7 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},Citrix.SDK.AppDNA.Analysis,System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_8 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_9 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_10 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_11 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.OSPatch},System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext,System.Boolean,Citrix.SDK.AppDNA.Analysis)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_12 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.ComponentModel.PropertyChangedEventHandler)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_13 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_AnalyzeAsync_14 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.AnalyzeAsync(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.ComponentModel.PropertyChangedEventHandler,System.Threading.SynchronizationContext,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Get_1 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Get(Citrix.SDK.AppDNA.ReportingConfigurationFilter,System.Object)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Get_2 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Get(Citrix.SDK.AppDNA.ReportingConfigurationFilter,System.Object,System.Int32)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Get_3 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Get(Citrix.SDK.AppDNA.ReportingConfigurationFilter,System.Object,System.Int32,System.Int32)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Get_4 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Get(Citrix.SDK.AppDNA.ReportingConfigurationFilter,System.Object,System.Int32,System.Int32,Citrix.SDK.AppDNA.ReportingConfigurationFilter)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Get_5 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Get(System.Collections.Generic.IEnumerable{System.String})
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_Get_6 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_GetAsync_1 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.GetAsync(Citrix.SDK.AppDNA.ReportingConfigurationFilter,System.Object)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_GetAsync_2 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.GetAsync(Citrix.SDK.AppDNA.ReportingConfigurationFilter,System.Object,System.Int32)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_GetAsync_3 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.GetAsync(Citrix.SDK.AppDNA.ReportingConfigurationFilter,System.Object,System.Int32,System.Int32)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_GetAsync_4 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.GetAsync(Citrix.SDK.AppDNA.ReportingConfigurationFilter,System.Object,System.Int32,System.Int32,Citrix.SDK.AppDNA.ReportingConfigurationFilter)
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_GetAsync_5 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.GetAsync(System.Collections.Generic.IEnumerable{System.String})
+    Unique name M_Citrix_SDK_AppDNA_ReportConfigurationService_GetAsync_6 generated for M:Citrix.SDK.AppDNA.ReportConfigurationService.GetAsync(System.String)
+    Unique name P_Citrix_SDK_AppDNA_ReportedAlgorithmCollection_Item_1 generated for P:Citrix.SDK.AppDNA.ReportedAlgorithmCollection.Item(System.String)
+    Unique name P_Citrix_SDK_AppDNA_ReportedApplicationCollection_Item_1 generated for P:Citrix.SDK.AppDNA.ReportedApplicationCollection.Item(System.Int32)
+    Unique name M_Citrix_SDK_AppDNA_ReportService_ExportApplicationRemediation_1 generated for M:Citrix.SDK.AppDNA.ReportService.ExportApplicationRemediation(System.String,Citrix.SDK.AppDNA.ReportExportFormat,Citrix.SDK.AppDNA.Application,System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},Citrix.SDK.AppDNA.OSImage,Citrix.SDK.AppDNA.OSImage,System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_ReportService_ExportApplicationRemediation_2 generated for M:Citrix.SDK.AppDNA.ReportService.ExportApplicationRemediation(System.String,Citrix.SDK.AppDNA.ReportExportFormat,Citrix.SDK.AppDNA.Application,System.Collections.Generic.IEnumerable{System.String})
+    Unique name M_Citrix_SDK_AppDNA_ReportService_ExportApplicationRemediation_3 generated for M:Citrix.SDK.AppDNA.ReportService.ExportApplicationRemediation(System.String,Citrix.SDK.AppDNA.ReportExportFormat,Citrix.SDK.AppDNA.Application,System.Collections.Generic.IEnumerable{System.String},Citrix.SDK.AppDNA.OSImage,Citrix.SDK.AppDNA.OSImage,System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_ReportService_ExportApplicationRemediationActions_1 generated for M:Citrix.SDK.AppDNA.ReportService.ExportApplicationRemediationActions(System.String,Citrix.SDK.AppDNA.ReportExportFormat,Citrix.SDK.AppDNA.Application,System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.ReportConfiguration},Citrix.SDK.AppDNA.OSImage,Citrix.SDK.AppDNA.OSImage,System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_ReportService_ExportApplicationRemediationActions_2 generated for M:Citrix.SDK.AppDNA.ReportService.ExportApplicationRemediationActions(System.String,Citrix.SDK.AppDNA.ReportExportFormat,Citrix.SDK.AppDNA.Application,System.Collections.Generic.IEnumerable{System.String})
+    Unique name M_Citrix_SDK_AppDNA_ReportService_ExportApplicationRemediationActions_3 generated for M:Citrix.SDK.AppDNA.ReportService.ExportApplicationRemediationActions(System.String,Citrix.SDK.AppDNA.ReportExportFormat,Citrix.SDK.AppDNA.Application,System.Collections.Generic.IEnumerable{System.String},Citrix.SDK.AppDNA.OSImage,Citrix.SDK.AppDNA.OSImage,System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_ReportService_Get_1 generated for M:Citrix.SDK.AppDNA.ReportService.Get(Citrix.SDK.AppDNA.ReportConfiguration,Citrix.SDK.AppDNA.OSImage,Citrix.SDK.AppDNA.OSImage)
+    Unique name M_Citrix_SDK_AppDNA_ReportService_Get_2 generated for M:Citrix.SDK.AppDNA.ReportService.Get(Citrix.SDK.AppDNA.ReportConfiguration,System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application})
+    Unique name M_Citrix_SDK_AppDNA_ReportService_Get_3 generated for M:Citrix.SDK.AppDNA.ReportService.Get(Citrix.SDK.AppDNA.ReportConfiguration,System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},Citrix.SDK.AppDNA.OSImage,Citrix.SDK.AppDNA.OSImage)
+    Unique name M_Citrix_SDK_AppDNA_ReportService_Get_4 generated for M:Citrix.SDK.AppDNA.ReportService.Get(Citrix.SDK.AppDNA.ReportConfiguration,System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Algorithm})
+    Unique name M_Citrix_SDK_AppDNA_ReportService_Get_5 generated for M:Citrix.SDK.AppDNA.ReportService.Get(Citrix.SDK.AppDNA.ReportConfiguration,System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Algorithm},Citrix.SDK.AppDNA.OSImage,Citrix.SDK.AppDNA.OSImage)
+    Unique name M_Citrix_SDK_AppDNA_ReportService_Get_6 generated for M:Citrix.SDK.AppDNA.ReportService.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_ReportService_Get_7 generated for M:Citrix.SDK.AppDNA.ReportService.Get(System.String,Citrix.SDK.AppDNA.OSImage,Citrix.SDK.AppDNA.OSImage)
+    Unique name M_Citrix_SDK_AppDNA_ReportService_Get_8 generated for M:Citrix.SDK.AppDNA.ReportService.Get(System.String,System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application})
+    Unique name M_Citrix_SDK_AppDNA_ReportService_Get_9 generated for M:Citrix.SDK.AppDNA.ReportService.Get(System.String,System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},Citrix.SDK.AppDNA.OSImage,Citrix.SDK.AppDNA.OSImage)
+    Unique name M_Citrix_SDK_AppDNA_ReportService_Get_10 generated for M:Citrix.SDK.AppDNA.ReportService.Get(System.String,System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Algorithm})
+    Unique name M_Citrix_SDK_AppDNA_ReportService_Get_11 generated for M:Citrix.SDK.AppDNA.ReportService.Get(System.String,System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Application},System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Algorithm},Citrix.SDK.AppDNA.OSImage,Citrix.SDK.AppDNA.OSImage)
+    Unique name P_Citrix_SDK_AppDNA_ResultByAlgorithmCollection_Item_1 generated for P:Citrix.SDK.AppDNA.ResultByAlgorithmCollection.Item(System.String)
+    Unique name P_Citrix_SDK_AppDNA_ResultByApplicationCollection_Item_1 generated for P:Citrix.SDK.AppDNA.ResultByApplicationCollection.Item(System.Int32)
+    Unique name M_Citrix_SDK_AppDNA_Server_Connect_1 generated for M:Citrix.SDK.AppDNA.Server.Connect(System.Uri,System.String)
+    Unique name M_Citrix_SDK_AppDNA_Server_Connect_2 generated for M:Citrix.SDK.AppDNA.Server.Connect(System.Uri,System.String,System.String,System.Security.SecureString)
+    Unique name M_Citrix_SDK_AppDNA_Server_Connect_3 generated for M:Citrix.SDK.AppDNA.Server.Connect(System.Uri,System.String,System.String,System.String)
+    Unique name M_Citrix_SDK_AppDNA_Server_Equals_1 generated for M:Citrix.SDK.AppDNA.Server.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_ServerTaskException__ctor_1 generated for M:Citrix.SDK.AppDNA.ServerTaskException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+    Unique name M_Citrix_SDK_AppDNA_ServerTaskException__ctor_2 generated for M:Citrix.SDK.AppDNA.ServerTaskException.#ctor(System.String)
+    Unique name M_Citrix_SDK_AppDNA_ServerTaskException__ctor_3 generated for M:Citrix.SDK.AppDNA.ServerTaskException.#ctor(System.String,System.Exception)
+    Unique name M_Citrix_SDK_AppDNA_SettingsService_SetBrandingLogo_1 generated for M:Citrix.SDK.AppDNA.SettingsService.SetBrandingLogo(System.String)
+    Unique name M_Citrix_SDK_AppDNA_SolutionConfigurationException__ctor_1 generated for M:Citrix.SDK.AppDNA.SolutionConfigurationException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+    Unique name M_Citrix_SDK_AppDNA_SolutionConfigurationException__ctor_2 generated for M:Citrix.SDK.AppDNA.SolutionConfigurationException.#ctor(System.String)
+    Unique name M_Citrix_SDK_AppDNA_SolutionConfigurationException__ctor_3 generated for M:Citrix.SDK.AppDNA.SolutionConfigurationException.#ctor(System.String,System.Exception)
+    Unique name M_Citrix_SDK_AppDNA_StaticAttribute_Equals_1 generated for M:Citrix.SDK.AppDNA.StaticAttribute.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_VirtualMachineConfiguration_Equals_1 generated for M:Citrix.SDK.AppDNA.VirtualMachineConfiguration.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_WebImportSourceDetails__ctor_1 generated for M:Citrix.SDK.AppDNA.WebImportSourceDetails.#ctor(System.String,System.String)
+    Unique name M_Citrix_SDK_AppDNA_WebImportSourceDetails__ctor_2 generated for M:Citrix.SDK.AppDNA.WebImportSourceDetails.#ctor(System.Uri,System.String)
+    Unique name M_Citrix_SDK_AppDNA_WebImportSourceDetails__ctor_3 generated for M:Citrix.SDK.AppDNA.WebImportSourceDetails.#ctor(System.Uri,System.String,System.String,System.String)
+    Unique name M_Citrix_SDK_AppDNA_Reporting_AnalysisData__ctor_1 generated for M:Citrix.SDK.AppDNA.Reporting.AnalysisData.#ctor(System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Interfaces.IAnalysisModuleTargetInfo},System.Boolean,System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_Reporting_ReportOptions__ctor_1 generated for M:Citrix.SDK.AppDNA.Reporting.ReportOptions.#ctor(Citrix.SDK.AppDNA.ReportType,System.String)
+    Unique name M_Citrix_SDK_AppDNA_Reporting_ReportOptions__ctor_2 generated for M:Citrix.SDK.AppDNA.Reporting.ReportOptions.#ctor(Citrix.SDK.AppDNA.ReportType,System.String,System.String,System.String)
+    Unique name M_Citrix_SDK_AppDNA_Reporting_ReportOptions__ctor_3 generated for M:Citrix.SDK.AppDNA.Reporting.ReportOptions.#ctor(Citrix.SDK.AppDNA.ReportType,System.String,System.String,System.String,System.Boolean,System.Boolean,System.Collections.Generic.IEnumerable{Citrix.SDK.AppDNA.Reporting.ReportDescription})
+    Unique name M_Citrix_SDK_AppDNA_Reporting_ReportOptions_Equals_1 generated for M:Citrix.SDK.AppDNA.Reporting.ReportOptions.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksSolution_ExportReport_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppDisks.AppDisksSolution.ExportReport(System.String,Citrix.SDK.AppDNA.ReportType,Citrix.SDK.AppDNA.ReportExportFormat,System.TimeSpan,Citrix.SDK.AppDNA.Application)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksSolutionEdit_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppDisks.AppDisksSolutionEdit.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksSolutionService_Get_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppDisks.AppDisksSolutionService.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_AppVSolution_Analyze_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.AppVSolution.Analyze(System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_AppVSolution_AnalyzeInBackground_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.AppVSolution.AnalyzeInBackground(System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_AppVSolution_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.AppVSolution.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_AppVSolutionService_Get_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.AppVSolutionService.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_AppVSolutionTemplate_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.AppVSolutionTemplate.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_Sequencing_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.Sequencing.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_VMSelectorsHelper_FindAndLockSequncerVM_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.VMSelectorsHelper.FindAndLockSequncerVM(System.String,System.Collections.ObjectModel.ReadOnlyObservableCollection{Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.AppVVirtualMachineConfig},Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.AppVVirtualMachineConfig@)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_ExecutionProfiles_AppVTaskException__ctor_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.ExecutionProfiles.AppVTaskException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_ExecutionProfiles_AppVTaskException__ctor_2 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.ExecutionProfiles.AppVTaskException.#ctor(System.String)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_ExecutionProfiles_AppVTaskException__ctor_3 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.ExecutionProfiles.AppVTaskException.#ctor(System.String,System.Exception)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_Processing_AppVSolutionProcessing_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.Processing.AppVSolutionProcessing.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_Processing_AppVSolutionStep_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.Processing.AppVSolutionStep.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_Processing_StepIdentifier_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.Processing.StepIdentifier.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_AppVVirtualMachineConfig_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.AppVVirtualMachineConfig.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_AppVVirtualMachineInfo_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.AppVVirtualMachineInfo.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_Workflow_ApplicationWorkflow_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.Workflow.ApplicationWorkflow.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_Workflow_AppVSolutionWorkflow_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.Workflow.AppVSolutionWorkflow.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_Workflow_ProcessingIssue_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.Workflow.ProcessingIssue.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_Workflow_StepLogEntry_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.Workflow.StepLogEntry.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_AppV_Workflow_WorkflowStep_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.AppV.Workflow.WorkflowStep.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentReport_Export_1 generated for M:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentReport.Export(System.String,Citrix.SDK.AppDNA.ReportExportFormat,System.TimeSpan,Citrix.SDK.AppDNA.OSImage)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolution_Analyze_1 generated for M:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentSolution.Analyze(System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolution_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentSolution.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolution_ExportReport_1 generated for M:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentSolution.ExportReport(System.String,Citrix.SDK.AppDNA.Reporting.ReportOptions,Citrix.SDK.AppDNA.ReportExportFormat,System.TimeSpan,Citrix.SDK.AppDNA.OSImage)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolution_ExportReport_2 generated for M:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentSolution.ExportReport(System.String,Citrix.SDK.AppDNA.Reporting.ReportOptions,Citrix.SDK.AppDNA.ReportExportFormat,System.TimeSpan,Citrix.SDK.AppDNA.OSImage,Citrix.SDK.AppDNA.Application)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolutionEdit_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentSolutionEdit.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolutionService_Get_1 generated for M:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentSolutionService.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_Interop_InteropSolution_Analyze_1 generated for M:Citrix.SDK.AppDNA.Solutions.Interop.InteropSolution.Analyze(System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_Interop_InteropSolution_ExportReport_1 generated for M:Citrix.SDK.AppDNA.Solutions.Interop.InteropSolution.ExportReport(System.String,Citrix.SDK.AppDNA.ReportType,Citrix.SDK.AppDNA.ReportExportFormat,System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_Interop_InteropSolution_ExportReport_2 generated for M:Citrix.SDK.AppDNA.Solutions.Interop.InteropSolution.ExportReport(System.String,Citrix.SDK.AppDNA.ReportType,Citrix.SDK.AppDNA.ReportExportFormat,System.TimeSpan,Citrix.SDK.AppDNA.Application)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_Interop_InteropSolutionEdit_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.Solutions.Interop.InteropSolutionEdit.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_Interop_InteropSolutionService_Get_1 generated for M:Citrix.SDK.AppDNA.Solutions.Interop.InteropSolutionService.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactAnalysisSolution_Analyze_1 generated for M:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.PatchImpactAnalysisSolution.Analyze(System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactAnalysisSolutionEdit_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.PatchImpactAnalysisSolutionEdit.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactAnalysisSolutionService_Get_1 generated for M:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.PatchImpactAnalysisSolutionService.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_Xen_Common_IXenSolutionService_2_Get_1 generated for M:Citrix.SDK.AppDNA.Solutions.Xen.Common.IXenSolutionService`2.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenSolutionEdit_Dispose_1 generated for M:Citrix.SDK.AppDNA.Solutions.Xen.Common.XenSolutionEdit.Dispose(System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenSolutionEdit_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.Solutions.Xen.Common.XenSolutionEdit.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionEdit_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionEdit.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionServer_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionServer.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolution_Analyze_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionSolution.Analyze(System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolution_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionSolution.Equals(Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionSolution)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolution_Equals_2 generated for M:Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionSolution.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionPlatform_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionSolutionPlatform.Equals(Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionSolutionPlatform)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionPlatform_Equals_2 generated for M:Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionSolutionPlatform.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionPlatformImage_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionSolutionPlatformImage.Equals(Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionSolutionPlatformImage)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionPlatformImage_Equals_2 generated for M:Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionSolutionPlatformImage.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionService_Get_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionSolutionService.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionTemplate_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenAdoption.XenAdoptionSolutionTemplate.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeEdit_WaitForCompletion_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeEdit.WaitForCompletion(System.TimeSpan)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolution_Analyze_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolution.Analyze(System.Boolean)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolution_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolution.Equals(Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolution)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolution_Equals_2 generated for M:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolution.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionPlatform_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolutionPlatform.Equals(Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolutionPlatform)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionPlatform_Equals_2 generated for M:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolutionPlatform.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionPlatformImage_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolutionPlatformImage.Equals(Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolutionPlatformImage)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionPlatformImage_Equals_2 generated for M:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolutionPlatformImage.Equals(System.Object)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionService_Get_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolutionService.Get(System.String)
+    Unique name M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionTemplate_Equals_1 generated for M:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolutionTemplate.Equals(System.Object)
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
+Done Building Project &quot;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\TransformManifest.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.83
+    Last step completed in 00:00:02.1240
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.1200
+</buildStep>
+<buildStep step="GenerateInheritedDocumentation">
+Generating inherited documentation...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - GenerateInheritedDocs.proj]
+Sandcastle Help File Builder and Tools, version 2015.10.10.0
+Copyright c 2006-2015, Eric Woodruff, All Rights Reserved
+E-Mail: Eric@EWoodruff.us
+
+Reflection information will be retrieved from &#39;reflection.xml&#39;
+Inherited documentation will be written to &#39;_InheritedDocs_.xml&#39;
+Indexing C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\*.xml
+Indexing C:\Program Files (x86)\Reference Assemblies\Microsoft\FSharp\.NETFramework\v4.0\4.3.1.0\*.xml
+Indexing D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.XML
+Indexing D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.AppDisks.XML
+Indexing D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.AppV.XML
+Indexing D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.BuildAssessment.XML
+Indexing D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.Interop.XML
+Indexing D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.XML
+Indexing D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.XenAdoption.XML
+Indexing D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.XenUpgrade.XML
+Indexing D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Citrix.SDK.AppDNA.Solutions.Xen.Common.XML
+Indexed 161203 members in 134 file(s).  9 file(s) to scan for &lt;inheritdoc /&gt; tags.
+Merging inherited documentation...
+
+
+Documentation merged successfully
+    Last step completed in 00:00:02.5770
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+No additional content to copy
+    Last step completed in 00:00:00.0020
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - GenerateIntermediateTOC.proj]
+Build started 9/12/2016 4:44:49 PM.
+Project &quot;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
+GenerateIntermediateTOC:
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
+Done Building Project &quot;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\GenerateIntermediateTOC.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.69
+Generating conceptual content intermediate TOC file...
+<plugIn name="Table of Contents Exclusion" behavior="After" priority="1500">
+Searching for comment members containing &lt;tocexclude /&gt;...
+Found 0 members to exclude from the TOC
+</plugIn>    Last step completed in 00:00:00.9930
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    sandcastle.config
+    Last step completed in 00:00:00.3440
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\sandcastle.config
+    Last step completed in 00:00:00.0080
+</buildStep>
+<buildStep step="BuildReferenceTopics">
+Building reference help topics...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - BuildReferenceTopics.proj]
+Build started 9/12/2016 4:44:51 PM.
+Project &quot;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
+BuildReferenceTopics:
+  BuildAssembler (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Loading configuration...
+  Processing topics...
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Server&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.VirtualMachineConfigurationService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Server&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA.Solutions.AppDisks] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.AppDisks.AppDisksServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA.Solutions.AppDisks] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.AppDisks.AppDisksServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppDisks.AppDisksSolutionService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.AppDisks.AppDisksServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppDisks.AppDisksSolutionTemplateService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.AppDisks.AppDisksServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA.Solutions.AppV] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.AppV.AppVServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA.Solutions.AppV] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.AppV.AppVServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA.Solutions.AppV] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.AppV.AppVServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.AppVSolutionService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.AppV.AppVServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.AppVSolutionTemplateService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.AppV.AppVServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.AppVSolutionWorkflowService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.AppV.AppVServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:Citrix.SDK.AppDNA.Solutions.AppV.ISolutionVm.OSBitness] Unknown reference link target &#39;T:AppDNA.ASM.Common.OSBitness&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:Citrix.SDK.AppDNA.Solutions.AppV.ISolutionVm.OSFamily] Unknown reference link target &#39;T:AppDNA.ASM.Common.OSFamily&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.ErrorMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.LogMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.RebootRequired&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.Success&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.ErrorMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.LogMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.RebootRequired&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.Success&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.LaunchTest.ApplicationLaunchTestResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.AppVVirtualMachineInfo.OsBitness] Unknown reference link target &#39;T:AppDNA.ASM.Common.OSBitness&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.AppVVirtualMachineInfo.OsFamily] Unknown reference link target &#39;T:AppDNA.ASM.Common.OSFamily&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.ISolutionVirtualMachine.FixAppvRequirement(Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.AppvRequirement)] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.ISolutionVirtualMachine.InstallAppvSoftware(Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.AppVVirtualMachineType)] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.ISolutionVirtualMachine.InstallVirtualMachineTools] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.ErrorMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.LogMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.RebootRequired&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.Success&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.ErrorMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.LogMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.RebootRequired&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.Success&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult.OSBitness] Unknown reference link target &#39;T:AppDNA.ASM.Common.OSBitness&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.OsInformationResult.OSFamily] Unknown reference link target &#39;T:AppDNA.ASM.Common.OSFamily&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.ErrorMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.LogMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.RebootRequired&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.Success&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.ErrorMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.LogMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.RebootRequired&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.Success&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult.OSBitness] Unknown reference link target &#39;T:AppDNA.ASM.Common.OSBitness&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskAppvCheckResult.OSFamily] Unknown reference link target &#39;T:AppDNA.ASM.Common.OSFamily&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.ErrorMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.LogMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.RebootRequired&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.Success&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.ErrorMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.LogMessage&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.RebootRequired&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;P:AppDNA.ASM.Common.VirtualMachine.VmTaskResult.Success&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.AppV.VirtualMachines.SolutionVmTaskVmToolsCheckResult] Unknown reference link target &#39;T:AppDNA.ASM.Common.VirtualMachine.VmTaskResult&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA.Solutions.BuildAssessment] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA.Solutions.BuildAssessment] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentSolutionService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentSolutionTemplateService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.BuildAssessment.BuildAssessmentServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.BuildAssessment.OsBuild] Unknown reference link target &#39;T:Citrix.SDK.AppDNA.Solutions.BuildAssessment.WebServices.Application&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:Citrix.SDK.AppDNA.Solutions.BuildAssessment.OsBuild] Unknown reference link target &#39;T:Citrix.SDK.AppDNA.Solutions.BuildAssessment.WebServices.Application&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:Citrix.SDK.AppDNA.Solutions.BuildAssessment.OsBuild.Applications] Unknown reference link target &#39;T:Citrix.SDK.AppDNA.Solutions.BuildAssessment.WebServices.Application&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA.Solutions.Interop] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.Interop.InteropServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA.Solutions.Interop] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.Interop.InteropServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Citrix.SDK.AppDNA.Solutions.Interop.InteropSolution.ExportReport(System.String,AppDNA.ASM.Common.ReportType,Citrix.SDK.AppDNA.ReportExportFormat,System.TimeSpan,Citrix.SDK.AppDNA.Application)] Unknown reference link target &#39;T:AppDNA.ASM.Common.ReportType&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.Interop.InteropSolutionService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.Interop.InteropServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.Interop.InteropSolutionTemplateService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.Interop.InteropServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.PatchImpactAnalysisServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.PatchImpactanalysisServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.IOsBuild.Patches] Unknown reference link target &#39;T:AppDNA.ASM.Common.PatchImport.OsPatchWrapper&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.PatchImpactAnalysisSolutionService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.PatchImpactAnalysisServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.PatchImpactAnalysisSolutionService.ImportPatch(AppDNA.ASM.Common.PatchImport.OsPatchWrapper)] Unknown reference link target &#39;T:AppDNA.ASM.Common.PatchImport.OsPatchWrapper&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.PatchImpactAnalysisSolutionTemplateService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.PatchImpactAnalysis.PatchImpactanalysisServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [F:Citrix.SDK.AppDNA.Solutions.Xen.Common.Constants.OsFamilyIdentifierToOsName] Unknown reference link target &#39;T:AppDNA.ASM.Common.OSFamily&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Citrix.SDK.AppDNA.Solutions.Xen.Common.OsHelper.AppVVersionToString(AppDNA.ASM.Common.AppVVersion)] Unknown reference link target &#39;T:AppDNA.ASM.Common.AppVVersion&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Citrix.SDK.AppDNA.Solutions.XenUpgrade] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeSolutionTemplateService] Unknown reference link target &#39;P:Citrix.SDK.AppDNA.Solutions.XenUpgrade.XenUpgradeServer&#39;. [D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj]
+  Processed 2932 topic(s)
+  113 warning(s)
+  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 15 of 15.
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 13 of 30.
+Done Building Project &quot;D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\BuildReferenceTopics.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:21.01
+    Last step completed in 00:00:21.3340
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+    Last step completed in 00:00:00.0260
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\AlertCaution.png -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\AlertCaution.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\AlertNote.png -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\AlertNote.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\AlertSecurity.png -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\AlertSecurity.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\CFW.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\CFW.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\CodeExample.png -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\CodeExample.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privclass.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\privclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privdelegate.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\privdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privenumeration.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\privenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privevent.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\privevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privextension.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\privextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privfield.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\privfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privinterface.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\privinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privmethod.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\privmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privproperty.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\privproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privstructure.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\privstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protclass.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\protclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protdelegate.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\protdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protenumeration.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\protenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protevent.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\protevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protextension.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\protextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protfield.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\protfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protinterface.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\protinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protmethod.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\protmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protoperator.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\protoperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protproperty.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\protproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protstructure.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\protstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubclass.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\pubclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubdelegate.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\pubdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubenumeration.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\pubenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubevent.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\pubevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubextension.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\pubextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubfield.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\pubfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubinterface.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\pubinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubmethod.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\pubmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\puboperator.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\puboperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubproperty.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\pubproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubstructure.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\pubstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\slMobile.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\slMobile.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\static.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\static.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\xna.gif -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\media\xna.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\MarkdownContent\_Footer.md -&gt; D:\Perforce\t_alexandr1_pc-stal1_Escolar\ASM_GUI\Citrix.SDK.AppDNA.Help\bin\Debug\Working\Output\Markdown\_Footer.md
+    Last step completed in 00:00:00.0810
+</buildStep>
+<buildStep step="GenerateHelpFormatTableOfContents">
+Executing informational Generate Table of Contents build step for plug-ins (not used for Markdown)
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateHelpProject">
+Executing informational Generate Help Project build step for plug-ins (not used for Markdown)
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="CompilingHelpFile">
+Generating markdown content...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - GenerateMarkdownContent.proj]
+  500 topics generated
+  1000 topics generated
+  1500 topics generated
+  2000 topics generated
+  2500 topics generated
+  Finished generating 2932 topics
+  Copying content to output folder...
+  Copied 500 files
+  Copied 1000 files
+  Copied 1500 files
+  Copied 2000 files
+  Copied 2500 files
+  Finished copying 2975 files
+    Last step completed in 00:00:14.3290
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:01.2890
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 9/12/2016 4:45:27 PM.  Total time: 00:00:54.7050
+
+</buildStep>
+</shfbBuild>
