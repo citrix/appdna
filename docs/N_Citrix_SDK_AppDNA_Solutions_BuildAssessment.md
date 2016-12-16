@@ -1,0 +1,31 @@
+# Citrix.SDK.AppDNA.Solutions.BuildAssessment Namespace
+
+## Classes
+&nbsp;<table><tr><th></th><th>Class</th><th>Description</th></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentAnalysisDataProvider">BuildAssessmentAnalysisDataProvider</a></td><td>
+Provides analysis and dependency data for a <a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolution">BuildAssessmentSolution</a></td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentApplicationsDictionary">BuildAssessmentApplicationsDictionary</a></td><td>
+Dictionary for the xen report to hold groupped applications</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentIssuesReport">BuildAssessmentIssuesReport</a></td><td>
+Represents Build Assessment solution Issues report</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentReport">BuildAssessmentReport</a></td><td>
+Represents build assessment solution comparison report</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentReportApplication">BuildAssessmentReportApplication</a></td><td>
+Represents the application in scope of the BUild Assessment soution comparison report</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentServer">BuildAssessmentServer</a></td><td>
+Represents an instance of Build Assessment solution (i.e., a specific AppDNA solution within a specific database).</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolution">BuildAssessmentSolution</a></td><td>
+Represents a Build Assessment solution instance.</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolutionEdit">BuildAssessmentSolutionEdit</a></td><td>
+A class that manages the creation and update operations of a <a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolution">BuildAssessmentSolution</a>.</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolutionService">BuildAssessmentSolutionService</a></td><td>
+This class is accessible from the BuildAssessmentServer property and provides access to functionality related to a Build Assessment solution.</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolutionTemplate">BuildAssessmentSolutionTemplate</a></td><td>
+Represents a Build Assessment solution template.</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolutionTemplateService">BuildAssessmentSolutionTemplateService</a></td><td>
+This class is accessible from the BuildAssessmentServer property and provides access to functionality related to a <a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolutionTemplate">BuildAssessmentSolutionTemplate</a>.</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildIssue">BuildIssue</a></td><td>
+Represents Algorithm and all triggered data</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_Constants">Constants</a></td><td>
+Contains constant values for a Build Assessment solution.</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_IssueData">IssueData</a></td><td>
+Represents triggered algorithm data</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_IssuesGroup">IssuesGroup</a></td><td>
+Represents issues for application grouped by algorithm group</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_OsBuild">OsBuild</a></td><td>
+Build with operating system and applications.</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_ReportingRequirementsChecker">ReportingRequirementsChecker</a></td><td>
+Auxiliary class for solution report, groups and algorithm configuration.</td></tr></table>
+
+## Interfaces
+&nbsp;<table><tr><th></th><th>Interface</th><th>Description</th></tr><tr><td>![Public interface](media/pubinterface.gif "Public interface")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_IBuildAssessmentSolutionConfig_1">IBuildAssessmentSolutionConfig(TIOsBuild)</a></td><td>
+Represents a Build Assessment configuration with which to create or update a Build Assessment solution</td></tr><tr><td>![Public interface](media/pubinterface.gif "Public interface")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_IOsBuild">IOsBuild</a></td><td>
+Represents OS build with applications</td></tr></table>
+
+## Enumerations
+&nbsp;<table><tr><th></th><th>Enumeration</th><th>Description</th></tr><tr><td>![Public enumeration](media/pubenumeration.gif "Public enumeration")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentReportApplicationCategory">BuildAssessmentReportApplicationCategory</a></td><td>
+Exposes application category in scope of Build Assessment comparison report</td></tr><tr><td>![Public enumeration](media/pubenumeration.gif "Public enumeration")</td><td><a href="T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_ReferenceBuildMode">ReferenceBuildMode</a></td><td>
+Indicates whether solution applications are tested and certified as working on the refrence build.</td></tr></table>&nbsp;

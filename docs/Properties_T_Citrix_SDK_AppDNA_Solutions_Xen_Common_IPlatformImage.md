@@ -1,0 +1,18 @@
+# IPlatformImage Properties
+ 
+
+The <a href="T_Citrix_SDK_AppDNA_Solutions_Xen_Common_IPlatformImage">IPlatformImage</a> type exposes the following members.
+
+
+## Properties
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Citrix_SDK_AppDNA_Solutions_Xen_Common_IPlatformImage_Identifier">Identifier</a></td><td>
+Gets or sets the identifier.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Citrix_SDK_AppDNA_Solutions_Xen_Common_IPlatformImage_Is64Bit">Is64Bit</a></td><td>
+Gets or sets a value indicating whether operating system image is x64 bit.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Citrix_SDK_AppDNA_Solutions_Xen_Common_IPlatformImage_OsFamilyName">OsFamilyName</a></td><td>
+Gets or sets the name of the os family for the image.</td></tr></table>&nbsp;
+<a href="#iplatformimage-properties">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Citrix_SDK_AppDNA_Solutions_Xen_Common_IPlatformImage">IPlatformImage Interface</a><br /><a href="N_Citrix_SDK_AppDNA_Solutions_Xen_Common">Citrix.SDK.AppDNA.Solutions.Xen.Common Namespace</a><br />

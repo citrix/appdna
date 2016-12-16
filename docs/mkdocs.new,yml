@@ -1,0 +1,572 @@
+site_name: Citrix AppDNA SDK Reference
+site_description: Reference guide for Citrix AppDNA SDK 7.9
+theme_dir: theme_multi
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+     anchorlink: True
+
+pages:
+- AppDNA SDK: index.md
+- Develop using the SDK:
+    - Accessing and using the SDK: access.md
+    - Connect to the AppDNA server: dna-sdk-connect-server.md
+    - Import Applications: dna-sdk-import.md
+    - Using application attributes: dna-sdk-app-attributes.md
+    - Analyze applications: dna-sdk-analyze.md
+    - Use report data: dna-sdk-report-data.md
+- Data available using the SDK: data.md
+- Citrix.SDK.AppDNA Namespace: appdna-sdk-namespace.md
+- Algorithm Class:
+  - Class: T_Citrix_SDK_AppDNA_Algorithm.md
+  - Properties:
+    - Algorithm Properties: Properties_T_Citrix_SDK_AppDNA_Algorithm.md
+    - Algorithm.ActionDetail Property: P_Citrix_SDK_AppDNA_Algorithm_ActionDetail.md
+    - Algorithm.Customizations Property: P_Citrix_SDK_AppDNA_Algorithm_Customizations.md
+    - Algorithm.CustomizedRag Property: P_Citrix_SDK_AppDNA_Algorithm_CustomizedRag.md
+    - Algorithm.Enabled Property: P_Citrix_SDK_AppDNA_Algorithm_Enabled.md
+    - Algorithm.Identifier Property: P_Citrix_SDK_AppDNA_Algorithm_Identifier.md
+    - Algorithm.Manifestation Property: P_Citrix_SDK_AppDNA_Algorithm_Manifestation.md
+    - Algorithm.Name Property: P_Citrix_SDK_AppDNA_Algorithm_Name.md
+    - Algorithm.PostImage Property: P_Citrix_SDK_AppDNA_Algorithm_PostImage.md
+    - Algorithm.PreImage Property: P_Citrix_SDK_AppDNA_Algorithm_PreImage.md
+    - Algorithm.RAG Property: P_Citrix_SDK_AppDNA_Algorithm_RAG.md
+    - Algorithm.Remediation Property: P_Citrix_SDK_AppDNA_Algorithm_Remediation.md
+    - Methods:
+      - Algorithm Methods: Methods_T_Citrix_SDK_AppDNA_Algorithm.md
+      - Algorithm.Equals Method: Overload_Citrix_SDK_AppDNA_Algorithm_Equals.md
+      - Algorithm.Equals Method (Object): M_Citrix_SDK_AppDNA_Algorithm_Equals_1.md
+      - Algorithm.Equals Method (Algorithm): M_Citrix_SDK_AppDNA_Algorithm_Equals.md
+      - Algorithm.GetHashCode Method: M_Citrix_SDK_AppDNA_Algorithm_GetHashCode.md
+      - Algorithm.ToString Method: M_Citrix_SDK_AppDNA_Algorithm_ToString.md
+    - Events:
+      - Algorithm Events: Events_T_Citrix_SDK_AppDNA_Algorithm.md
+      - Algorithm.Deleted Event: E_Citrix_SDK_AppDNA_Algorithm_Deleted.md
+      - Algorithm.PropertyChanged Event: E_Citrix_SDK_AppDNA_Algorithm_PropertyChanged.md
+- AlgorithmAction Class:
+  - Class: T_Citrix_SDK_AppDNA_AlgorithmAction.md
+  - Properties:
+    - AlgorithmAction Properties: Properties_T_Citrix_SDK_AppDNA_AlgorithmAction.md
+    - AlgorithmAction.Complexity Property: P_Citrix_SDK_AppDNA_AlgorithmAction_Complexity.md
+    - AlgorithmAction.Description Property: P_Citrix_SDK_AppDNA_AlgorithmAction_Description.md
+    - AlgorithmAction.Identifier Property: P_Citrix_SDK_AppDNA_AlgorithmAction_Identifier.md
+    - AlgorithmAction.IsSystem Property: P_Citrix_SDK_AppDNA_AlgorithmAction_IsSystem.md
+    - AlgorithmAction.Name Property: P_Citrix_SDK_AppDNA_AlgorithmAction_Name.md
+    - AlgorithmAction.RAG Property: P_Citrix_SDK_AppDNA_AlgorithmAction_RAG.md
+  - Methods:
+    - AlgorithmAction Methods: Methods_T_Citrix_SDK_AppDNA_AlgorithmAction.md
+- AlgorithmActionDetail Class:
+  - Class: T_Citrix_SDK_AppDNA_AlgorithmActionDetail.md
+  - Properties:
+    - AlgorithmActionDetail Properties: Properties_T_Citrix_SDK_AppDNA_AlgorithmActionDetail.md
+    - AlgorithmActionDetail.Description Property: P_Citrix_SDK_AppDNA_AlgorithmActionDetail_Description.md
+    - AlgorithmActionDetail.Identifier Property: P_Citrix_SDK_AppDNA_AlgorithmActionDetail_Identifier.md
+    - AlgorithmActionDetail.IsSystem Property: P_Citrix_SDK_AppDNA_AlgorithmActionDetail_IsSystem.md
+    - AlgorithmActionDetail.Name Property: P_Citrix_SDK_AppDNA_AlgorithmActionDetail_Name.md
+    - AlgorithmActionDetail.ParentAction Property: P_Citrix_SDK_AppDNA_AlgorithmActionDetail_ParentAction.md
+  - Methods:
+    - AlgorithmActionDetail Methods: Methods_T_Citrix_SDK_AppDNA_AlgorithmActionDetail.md
+    - AlgorithmActionDetail.Equals Method: Overload_Citrix_SDK_AppDNA_AlgorithmActionDetail_Equals.md
+    - AlgorithmActionDetail.Equals Method (Object): M_Citrix_SDK_AppDNA_AlgorithmActionDetail_Equals_1.md
+    - AlgorithmActionDetail.Equals Method (AlgorithmActionDetail): M_Citrix_SDK_AppDNA_AlgorithmActionDetail_Equals.md
+    - AlgorithmActionDetail.GetHashCode Method: M_Citrix_SDK_AppDNA_AlgorithmActionDetail_GetHashCode.md
+- AlgorithmCustomization Class:
+  - Class: T_Citrix_SDK_AppDNA_AlgorithmCustomization.md
+  - Properties:
+    - AlgorithmCustomization Properties: Properties_T_Citrix_SDK_AppDNA_AlgorithmCustomization.md
+    - AlgorithmCustomization.AlgorithmIdentifier Property: P_Citrix_SDK_AppDNA_AlgorithmCustomization_AlgorithmIdentifier.md
+    - AlgorithmCustomization.Description Property: P_Citrix_SDK_AppDNA_AlgorithmCustomization_Description.md
+    - AlgorithmCustomization.RAG Property: P_Citrix_SDK_AppDNA_AlgorithmCustomization_RAG.md
+  - Methods: Methods_T_Citrix_SDK_AppDNA_AlgorithmCustomization.md
+- AlgorithmGroup Class:
+  - Class: T_Citrix_SDK_AppDNA_AlgorithmGroup.md
+  - Properties:
+    - AlgorithmGroup Properties: Properties_T_Citrix_SDK_AppDNA_AlgorithmGroup.md
+    - AlgorithmGroup.Algorithms Property: P_Citrix_SDK_AppDNA_AlgorithmGroup_Algorithms.md
+    - AlgorithmGroup.Description Property: P_Citrix_SDK_AppDNA_AlgorithmGroup_Description.md
+    - AlgorithmGroup.Enabled Property: P_Citrix_SDK_AppDNA_AlgorithmGroup_Enabled.md
+    - AlgorithmGroup.Identifier Property: P_Citrix_SDK_AppDNA_AlgorithmGroup_Identifier.md
+    - AlgorithmGroup.Name Property: P_Citrix_SDK_AppDNA_AlgorithmGroup_Name.md
+  - AlgorithmGroup Methods: Methods_T_Citrix_SDK_AppDNA_AlgorithmGroup.md
+  - Events:
+    - AlgorithmGroup Events: Events_T_Citrix_SDK_AppDNA_AlgorithmGroup.md
+    - AlgorithmGroup.Deleted Event: E_Citrix_SDK_AppDNA_AlgorithmGroup_Deleted.md
+    - AlgorithmGroup.PropertyChanged Event: E_Citrix_SDK_AppDNA_AlgorithmGroup_PropertyChanged.md
+- Analysis Class:
+  - Class: T_Citrix_SDK_AppDNA_Analysis.md
+  - Properties:
+    - Analysis Properties: Properties_T_Citrix_SDK_AppDNA_Analysis.md
+    - Analysis.Applications Property: P_Citrix_SDK_AppDNA_Analysis_Applications.md
+    - Analysis.IsFinished Property: P_Citrix_SDK_AppDNA_Analysis_IsFinished.md
+    - Analysis.Patches Property: P_Citrix_SDK_AppDNA_Analysis_Patches.md
+    - Analysis.ProcessingState Property: P_Citrix_SDK_AppDNA_Analysis_ProcessingState.md
+    - Analysis.ReportingConfigurations Property: P_Citrix_SDK_AppDNA_Analysis_ReportingConfigurations.md
+  - Methods:
+    - Analysis Methods: Methods_T_Citrix_SDK_AppDNA_Analysis.md
+    - Analysis.Dispose Method: M_Citrix_SDK_AppDNA_Analysis_Dispose.md
+    - Analysis.GetReport Method: Overload_Citrix_SDK_AppDNA_Analysis_GetReport.md
+    - Analysis.GetReport Method: M_Citrix_SDK_AppDNA_Analysis_GetReport.md
+    - Analysis.GetReport Method (ReportConfiguration): M_Citrix_SDK_AppDNA_Analysis_GetReport_1.md
+    - Analysis.RequestCancel Method: M_Citrix_SDK_AppDNA_Analysis_RequestCancel.md
+    - Analysis.WaitForCompletion Method: Overload_Citrix_SDK_AppDNA_Analysis_WaitForCompletion.md
+    - Analysis.WaitForCompletion Method: M_Citrix_SDK_AppDNA_Analysis_WaitForCompletion.md
+    - Analysis.WaitForCompletion Method (TimeSpan): M_Citrix_SDK_AppDNA_Analysis_WaitForCompletion_1.md
+- AnalysisStartedEventHander Delegate: T_Citrix_SDK_AppDNA_AnalysisStartedEventHander.md
+- AppDNAException Class:
+  - Class: T_Citrix_SDK_AppDNA_AppDNAException.md
+  - AppDNAException Constructor:
+    - AppDNAException Constructor: Overload_Citrix_SDK_AppDNA_AppDNAException__ctor.md
+    - AppDNAException Overload: M_Citrix_SDK_AppDNA_AppDNAException__ctor.md
+    - AppDNAException Constructor (String): M_Citrix_SDK_AppDNA_AppDNAException__ctor_2.md
+    - AppDNAException Constructor (SerializationInfo, StreamingContext): M_Citrix_SDK_AppDNA_AppDNAException__ctor_1.md
+    - AppDNAException Constructor (String, Exception): M_Citrix_SDK_AppDNA_AppDNAException__ctor_3.md
+  - AppDNAException Properties: Properties_T_Citrix_SDK_AppDNA_AppDNAException.md
+  - AppDNAException Methods: Methods_T_Citrix_SDK_AppDNA_AppDNAException.md
+  - AppDNAException Events: Events_T_Citrix_SDK_AppDNA_AppDNAException.md
+- Application Class:
+  - Class: T_Citrix_SDK_AppDNA_Application.md
+  - Properties:
+    - Application Properties: Properties_T_Citrix_SDK_AppDNA_Application.md
+    - Application.ApplicationGroups Property: P_Citrix_SDK_AppDNA_Application_ApplicationGroups.md
+    - Application.Attachments Property: P_Citrix_SDK_AppDNA_Application_Attachments.md
+    - Application.Attributes Property: P_Citrix_SDK_AppDNA_Application_Attributes.md
+    - Application.CustomerKey Property: P_Citrix_SDK_AppDNA_Application_CustomerKey.md
+    - Application.Identifier Property: P_Citrix_SDK_AppDNA_Application_Identifier.md
+    - Application.ImportWarnings Property: P_Citrix_SDK_AppDNA_Application_ImportWarnings.md
+    - Application.IsUserFramework Property: P_Citrix_SDK_AppDNA_Application_IsUserFramework.md
+    - Application.Loaded Property: P_Citrix_SDK_AppDNA_Application_Loaded.md
+    - Application.LoadedBy Property: P_Citrix_SDK_AppDNA_Application_LoadedBy.md
+    - Application.Manufacturer Property: P_Citrix_SDK_AppDNA_Application_Manufacturer.md
+    - Application.Name Property: P_Citrix_SDK_AppDNA_Application_Name.md
+    - Application.OriginalSourceFile Property: P_Citrix_SDK_AppDNA_Application_OriginalSourceFile.md
+    - Application.ProfileData Property: P_Citrix_SDK_AppDNA_Application_ProfileData.md
+    - Application.RequiredApplications Property: P_Citrix_SDK_AppDNA_Application_RequiredApplications.md
+    - Application.SourceCategory Property: P_Citrix_SDK_AppDNA_Application_SourceCategory.md
+    - Application.State Property: P_Citrix_SDK_AppDNA_Application_State.md
+    - Application.Status Property: P_Citrix_SDK_AppDNA_Application_Status.md
+    - Application.SuggestedRequiredApplications Property: P_Citrix_SDK_AppDNA_Application_SuggestedRequiredApplications.md
+    - Application.Version Property: P_Citrix_SDK_AppDNA_Application_Version.md
+  - Methods:
+    - Application Methods: Methods_T_Citrix_SDK_AppDNA_Application.md
+    - Application.AddAttachment Method: M_Citrix_SDK_AppDNA_Application_AddAttachment.md
+    - Application.AddRequiredApplications Method: Overload_Citrix_SDK_AppDNA_Application_AddRequiredApplications.md
+    - Application.AddRequiredApplications Method (Application[]): M_Citrix_SDK_AppDNA_Application_AddRequiredApplications.md
+    - Application.AddRequiredApplications Method (IEnumerable(Application)): M_Citrix_SDK_AppDNA_Application_AddRequiredApplications_1.md
+    - Application.ClearAllAttributes Method: M_Citrix_SDK_AppDNA_Application_ClearAllAttributes.md
+    - Application.ClearAttribute Method: M_Citrix_SDK_AppDNA_Application_ClearAttribute.md
+    - Application.ClearAttributes Method: M_Citrix_SDK_AppDNA_Application_ClearAttributes.md
+    - Application.ClearCustomProductDetails Method: M_Citrix_SDK_AppDNA_Application_ClearCustomProductDetails.md
+    - Application.Delete Method: Overload_Citrix_SDK_AppDNA_Application_Delete.md
+    - Application.Delete Method: M_Citrix_SDK_AppDNA_Application_Delete.md
+    - Application.Delete Method (ApplicationDeleteOptions): M_Citrix_SDK_AppDNA_Application_Delete_1.md
+    - Application.DeleteAttachments Method: M_Citrix_SDK_AppDNA_Application_DeleteAttachments.md
+    - Application.Equals Method: Overload_Citrix_SDK_AppDNA_Application_Equals.md
+    - Application.Equals Method (Object): M_Citrix_SDK_AppDNA_Application_Equals_1.md
+    - Application.Equals Method (Application): M_Citrix_SDK_AppDNA_Application_Equals.md
+    - Application.GetHashCode Method: M_Citrix_SDK_AppDNA_Application_GetHashCode.md
+    - Application.GetReport Method: Overload_Citrix_SDK_AppDNA_Application_GetReport.md
+    - Application.GetReport Method (String): M_Citrix_SDK_AppDNA_Application_GetReport_1.md
+    - Application.GetReport Method (ReportConfiguration): M_Citrix_SDK_AppDNA_Application_GetReport.md
+    - Application.Import Method: Overload_Citrix_SDK_AppDNA_Application_Import.md
+    - Application.Import Method (String): M_Citrix_SDK_AppDNA_Application_Import.md
+    - Application.Import Method (String, Boolean): M_Citrix_SDK_AppDNA_Application_Import_1.md
+    - Application.Import Method (String, IEnumerable(String), ApplicationImportConfiguration, String, Boolean): M_Citrix_SDK_AppDNA_Application_Import_2.md
+    - Application.InstallCapture Method: M_Citrix_SDK_AppDNA_Application_InstallCapture.md
+    - Application.Profile Method: M_Citrix_SDK_AppDNA_Application_Profile.md
+    - Application.RemoveRequiredApplications Method: Overload_Citrix_SDK_AppDNA_Application_RemoveRequiredApplications.md
+    - Application.RemoveRequiredApplications Method (Application[]): M_Citrix_SDK_AppDNA_Application_RemoveRequiredApplications.md
+    - Application.RemoveRequiredApplications Method (IEnumerable(Application)): M_Citrix_SDK_AppDNA_Application_RemoveRequiredApplications_1.md
+    - Application.SaveProfilingData Method: M_Citrix_SDK_AppDNA_Application_SaveProfilingData.md
+    - Application.SetAttribute Method: Overload_Citrix_SDK_AppDNA_Application_SetAttribute.md
+    - Application.SetAttribute Method (String, Ragu): M_Citrix_SDK_AppDNA_Application_SetAttribute.md
+    - Application.SetAttribute Method (String, Boolean): M_Citrix_SDK_AppDNA_Application_SetAttribute_2.md
+    - Application.SetAttribute Method (String, DateTime): M_Citrix_SDK_AppDNA_Application_SetAttribute_4.md
+    - Application.SetAttribute Method (String, Double): M_Citrix_SDK_AppDNA_Application_SetAttribute_6.md
+    - Application.SetAttribute Method (String, String): M_Citrix_SDK_AppDNA_Application_SetAttribute_8.md
+    - Application.SetAttribute(*T*) Method (ApplicationAttributeDefinition, *T*): M_Citrix_SDK_AppDNA_Application_SetAttribute__1.md
+    - Application.SetAttribute Method (String, Ragu, String): M_Citrix_SDK_AppDNA_Application_SetAttribute_1.md
+    - Application.SetAttribute Method (String, Boolean, String): M_Citrix_SDK_AppDNA_Application_SetAttribute_3.md
+    - Application.SetAttribute Method (String, DateTime, String): M_Citrix_SDK_AppDNA_Application_SetAttribute_5.md
+    - Application.SetAttribute Method (String, Double, String): M_Citrix_SDK_AppDNA_Application_SetAttribute_7.md
+    - Application.SetAttribute Method (String, String, String): M_Citrix_SDK_AppDNA_Application_SetAttribute_9.md
+    - Application.SetAttribute(*T*) Method (String, *T*, ReportConfiguration): M_Citrix_SDK_AppDNA_Application_SetAttribute__1_2.md
+    - Application.SetAttribute(*T*) Method (ApplicationAttributeDefinition, *T*, ReportConfiguration): M_Citrix_SDK_AppDNA_Application_SetAttribute__1_1.md
+    - Application.SetProductDetails Method: Overload_Citrix_SDK_AppDNA_Application_SetProductDetails.md
+    - Application.SetProductDetails Method (String, String, String): M_Citrix_SDK_AppDNA_Application_SetProductDetails.md
+    - Application.SetProductDetails Method (String, String, Version): M_Citrix_SDK_AppDNA_Application_SetProductDetails_1.md
+    - Application.SetProductName Method: M_Citrix_SDK_AppDNA_Application_SetProductName.md
+    - Application.ToString Method: M_Citrix_SDK_AppDNA_Application_ToString.md
+  - Events:
+    - Application Events: Events_T_Citrix_SDK_AppDNA_Application.md
+    - Application.Deleted Event: E_Citrix_SDK_AppDNA_Application_Deleted.md
+    - Application.PropertyChanged Event: E_Citrix_SDK_AppDNA_Application_PropertyChanged.md
+- ApplicationAlgorithmResult Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationAlgorithmResult.md
+  - Properties:
+    - ApplicationAlgorithmResult Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationAlgorithmResult.md
+    - ApplicationAlgorithmResult.AfterActionRag Property: P_Citrix_SDK_AppDNA_ApplicationAlgorithmResult_AfterActionRag.md
+    - ApplicationAlgorithmResult.Algorithm Property: P_Citrix_SDK_AppDNA_ApplicationAlgorithmResult_Algorithm.md
+    - ApplicationAlgorithmResult.Application Property: P_Citrix_SDK_AppDNA_ApplicationAlgorithmResult_Application.md
+    - ApplicationAlgorithmResult.CustomizedRag Property: P_Citrix_SDK_AppDNA_ApplicationAlgorithmResult_CustomizedRag.md
+    - ApplicationAlgorithmResult.Rag Property: P_Citrix_SDK_AppDNA_ApplicationAlgorithmResult_Rag.md
+    - ApplicationAlgorithmResult.Results Property: P_Citrix_SDK_AppDNA_ApplicationAlgorithmResult_Results.md
+    - ApplicationAlgorithmResult.Triggered Property: P_Citrix_SDK_AppDNA_ApplicationAlgorithmResult_Triggered.md
+  - Methods:
+    - ApplicationAlgorithmResult Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationAlgorithmResult.md
+    - ApplicationAlgorithmResult.ToString Method: M_Citrix_SDK_AppDNA_ApplicationAlgorithmResult_ToString.md
+- ApplicationAttachment Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationAttachment.md
+  - Properties:
+    - ApplicationAttachment Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationAttachment.md
+    - ApplicationAttachment.AttachmentDataId Property: P_Citrix_SDK_AppDNA_ApplicationAttachment_AttachmentDataId.md
+    - ApplicationAttachment.DateAttached Property: P_Citrix_SDK_AppDNA_ApplicationAttachment_DateAttached.md
+    - ApplicationAttachment.FileName Property: P_Citrix_SDK_AppDNA_ApplicationAttachment_FileName.md
+    - ApplicationAttachment.Hash Property: P_Citrix_SDK_AppDNA_ApplicationAttachment_Hash.md
+    - ApplicationAttachment.Size Property: P_Citrix_SDK_AppDNA_ApplicationAttachment_Size.md
+    - ApplicationAttachment.SizeFormatted Property: P_Citrix_SDK_AppDNA_ApplicationAttachment_SizeFormatted.md
+    - Methods:
+      - ApplicationAttachment Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationAttachment.md
+      - ApplicationAttachment.Equals Method: Overload_Citrix_SDK_AppDNA_ApplicationAttachment_Equals.md
+      - ApplicationAttachment.Equals Method (ApplicationAttachment): M_Citrix_SDK_AppDNA_ApplicationAttachment_Equals.md
+    - Events:
+      - ApplicationAttachment Events: Events_T_Citrix_SDK_AppDNA_ApplicationAttachment.md
+      - ApplicationAttachment.Deleted Event: E_Citrix_SDK_AppDNA_ApplicationAttachment_Deleted.md
+      - ApplicationAttachment.PropertyChanged Event: E_Citrix_SDK_AppDNA_ApplicationAttachment_PropertyChanged.md
+- ApplicationAttribute Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationAttribute.md
+  - Properties:
+    - ApplicationAttribute Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationAttribute.md
+    - ApplicationAttribute.BooleanValue Property: P_Citrix_SDK_AppDNA_ApplicationAttribute_BooleanValue.md
+    - ApplicationAttribute.DateTimeValue Property: P_Citrix_SDK_AppDNA_ApplicationAttribute_DateTimeValue.md
+    - ApplicationAttribute.Definition Property: P_Citrix_SDK_AppDNA_ApplicationAttribute_Definition.md
+    - ApplicationAttribute.IsNull Property: P_Citrix_SDK_AppDNA_ApplicationAttribute_IsNull.md
+    - ApplicationAttribute.NumericValue Property: P_Citrix_SDK_AppDNA_ApplicationAttribute_NumericValue.md
+    - ApplicationAttribute.RagValue Property: P_Citrix_SDK_AppDNA_ApplicationAttribute_RagValue.md
+    - ApplicationAttribute.ReportingConfigurationIdentifier Property: P_Citrix_SDK_AppDNA_ApplicationAttribute_ReportingConfigurationIdentifier.md
+    - ApplicationAttribute.StringValue Property: P_Citrix_SDK_AppDNA_ApplicationAttribute_StringValue.md
+    - Methods:
+      - ApplicationAttribute Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationAttribute.md
+      - ApplicationAttribute.Equals Method: Overload_Citrix_SDK_AppDNA_ApplicationAttribute_Equals.md
+      - ApplicationAttribute.Equals Method (Object): M_Citrix_SDK_AppDNA_ApplicationAttribute_Equals_1.md
+      - ApplicationAttribute.Equals Method (ApplicationAttribute): M_Citrix_SDK_AppDNA_ApplicationAttribute_Equals.md
+      - ApplicationAttribute.GetHashCode Method: M_Citrix_SDK_AppDNA_ApplicationAttribute_GetHashCode.md
+    - Events:
+      - ApplicationAttribute Events: Events_T_Citrix_SDK_AppDNA_ApplicationAttribute.md
+      - ApplicationAttribute.Deleted Event: E_Citrix_SDK_AppDNA_ApplicationAttribute_Deleted.md
+      - ApplicationAttribute.PropertyChanged Event: E_Citrix_SDK_AppDNA_ApplicationAttribute_PropertyChanged.md
+- ApplicationAttribute(*T*) Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationAttribute_1.md
+  - Properties:
+    - ApplicationAttribute(*T*) Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationAttribute_1.md
+    - ApplicationAttribute(*T*).Value Property: P_Citrix_SDK_AppDNA_ApplicationAttribute_1_Value.md
+    - Methods:
+      - ApplicationAttribute(*T*) Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationAttribute_1.md
+      - ApplicationAttribute(*T*).Equals Method: Overload_Citrix_SDK_AppDNA_ApplicationAttribute_1_Equals.md
+      - ApplicationAttribute(*T*).Equals Method (ApplicationAttribute(*T*)): M_Citrix_SDK_AppDNA_ApplicationAttribute_1_Equals.md
+    - ApplicationAttribute(*T*) Events: Events_T_Citrix_SDK_AppDNA_ApplicationAttribute_1.md
+- ApplicationAttributeCollection Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationAttributeCollection.md
+  - ApplicationAttributeCollection Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationAttributeCollection.md
+  - ApplicationAttributeCollection Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationAttributeCollection.md
+  - ApplicationAttributeCollection Events: Events_T_Citrix_SDK_AppDNA_ApplicationAttributeCollection.md
+- ApplicationAttributeDefinition Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationAttributeDefinition.md
+  - Properties:
+    - ApplicationAttributeDefinition Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationAttributeDefinition.md
+    - ApplicationAttributeDefinition.DataType Property: P_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_DataType.md
+    - ApplicationAttributeDefinition.Identifier Property: P_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_Identifier.md
+    - ApplicationAttributeDefinition.IsLocked Property: P_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_IsLocked.md
+    - ApplicationAttributeDefinition.IsReportDependent Property: P_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_IsReportDependent.md
+    - ApplicationAttributeDefinition.IsSystem Property: P_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_IsSystem.md
+    - ApplicationAttributeDefinition.Name Property: P_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_Name.md
+    - ApplicationAttributeDefinition.Order Property: P_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_Order.md
+    - ApplicationAttributeDefinition.ShowInAppList Property: P_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_ShowInAppList.md
+    - ApplicationAttributeDefinition.ShowInIssuesActions Property: P_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_ShowInIssuesActions.md
+    - ApplicationAttributeDefinition.ShowInOverview Property: P_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_ShowInOverview.md
+    - ApplicationAttributeDefinition.ShowInRemediation Property: P_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_ShowInRemediation.md
+    - ApplicationAttributeDefinition.StringList Property: P_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_StringList.md
+    - Methods:
+      - ApplicationAttributeDefinition Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationAttributeDefinition.md
+      - ApplicationAttributeDefinition.Delete Method: M_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_Delete.md
+      - ApplicationAttributeDefinition.Equals Method: Overload_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_Equals.md
+      - ApplicationAttributeDefinition.Equals Method (Object): M_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_Equals_1.md
+      - ApplicationAttributeDefinition.Equals Method (ApplicationAttributeDefinition): M_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_Equals.md
+      - ApplicationAttributeDefinition.GetHashCode Method: M_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_GetHashCode.md
+      - ApplicationAttributeDefinition.Rename Method: M_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_Rename.md
+    - Events:
+      - ApplicationAttributeDefinition Events: Events_T_Citrix_SDK_AppDNA_ApplicationAttributeDefinition.md
+      - ApplicationAttributeDefinition.Deleted Event: E_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_Deleted.md
+      - ApplicationAttributeDefinition.PropertyChanged Event: E_Citrix_SDK_AppDNA_ApplicationAttributeDefinition_PropertyChanged.md
+- ApplicationAttributeDefinitionService Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService.md
+  - Methods:
+    - ApplicationAttributeDefinitionService Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService.md
+    - ApplicationAttributeDefinitionService.CreateBooleanDefinition Method: M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_CreateBooleanDefinition.md
+    - ApplicationAttributeDefinitionService.CreateDateTimeDefinition Method: M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_CreateDateTimeDefinition.md
+    - ApplicationAttributeDefinitionService.CreateNumericDefinition Method: M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_CreateNumericDefinition.md
+    - ApplicationAttributeDefinitionService.CreateRagDefinition Method: M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_CreateRagDefinition.md
+    - ApplicationAttributeDefinitionService.CreateStringDefinition Method: M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_CreateStringDefinition.md
+    - ApplicationAttributeDefinitionService.CreateStringListDefinition Method: M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_CreateStringListDefinition.md
+    - ApplicationAttributeDefinitionService.Delete Method: Overload_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_Delete.md
+    - ApplicationAttributeDefinitionService.Delete Method (ApplicationAttributeDefinition[]): M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_Delete.md
+    - ApplicationAttributeDefinitionService.Delete Method (IEnumerable(ApplicationAttributeDefinition)): M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_Delete_1.md
+    - ApplicationAttributeDefinitionService.Get Method: Overload_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_Get.md
+    - ApplicationAttributeDefinitionService.Get Method: M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_Get.md
+    - ApplicationAttributeDefinitionService.Get Method (IEnumerable(String)): M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_Get_1.md
+    - ApplicationAttributeDefinitionService.Get Method (String): M_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService_Get_2.md
+- ApplicationDeleteOptions Enumeration: T_Citrix_SDK_AppDNA_ApplicationDeleteOptions.md
+- ApplicationFilter Enumeration: T_Citrix_SDK_AppDNA_ApplicationFilter.md
+- ApplicationForm Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationForm.md
+  - Properties:
+    - ApplicationForm Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationForm.md
+    - ApplicationForm.ApplicationFormDefinition Property: P_Citrix_SDK_AppDNA_ApplicationForm_ApplicationFormDefinition.md
+    - ApplicationForm.Fields Property: P_Citrix_SDK_AppDNA_ApplicationForm_Fields.md
+    - ApplicationForm.Identifier Property: P_Citrix_SDK_AppDNA_ApplicationForm_Identifier.md
+    - ApplicationForm.Item Property: P_Citrix_SDK_AppDNA_ApplicationForm_Item.md
+  - Methods:
+    - ApplicationForm Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationForm.md
+    - ApplicationForm.Equals Method: Overload_Citrix_SDK_AppDNA_ApplicationForm_Equals.md
+    - ApplicationForm.Equals Method (Object): M_Citrix_SDK_AppDNA_ApplicationForm_Equals_1.md
+    - ApplicationForm.Equals Method (ApplicationForm): M_Citrix_SDK_AppDNA_ApplicationForm_Equals.md
+    - ApplicationForm.GetHashCode Method: M_Citrix_SDK_AppDNA_ApplicationForm_GetHashCode.md
+  - Events:
+    - ApplicationForm Events: Events_T_Citrix_SDK_AppDNA_ApplicationForm.md
+    - ApplicationForm.Deleted Event: E_Citrix_SDK_AppDNA_ApplicationForm_Deleted.md
+    - ApplicationForm.PropertyChanged Event: E_Citrix_SDK_AppDNA_ApplicationForm_PropertyChanged.md
+- ApplicationFormDefinition Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationFormDefinition.md
+  - Properties:
+    - ApplicationFormDefinition Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationFormDefinition.md
+    - ApplicationFormDefinition.Attributes Property: P_Citrix_SDK_AppDNA_ApplicationFormDefinition_Attributes.md
+    - ApplicationFormDefinition.Identifier Property: P_Citrix_SDK_AppDNA_ApplicationFormDefinition_Identifier.md
+    - ApplicationFormDefinition.Name Property: P_Citrix_SDK_AppDNA_ApplicationFormDefinition_Name.md
+    - ApplicationFormDefinition.StaticAttributes Property: P_Citrix_SDK_AppDNA_ApplicationFormDefinition_StaticAttributes.md
+  - Methods:
+    - ApplicationFormDefinition Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationFormDefinition.md
+    - ApplicationFormDefinition.Delete Method: M_Citrix_SDK_AppDNA_ApplicationFormDefinition_Delete.md
+    - ApplicationFormDefinition.Equals Method: Overload_Citrix_SDK_AppDNA_ApplicationFormDefinition_Equals.md
+    - ApplicationFormDefinition.Equals Method (Object): M_Citrix_SDK_AppDNA_ApplicationFormDefinition_Equals_1.md
+    - ApplicationFormDefinition.Equals Method (ApplicationFormDefinition): M_Citrix_SDK_AppDNA_ApplicationFormDefinition_Equals.md
+    - ApplicationFormDefinition.GetHashCode Method: M_Citrix_SDK_AppDNA_ApplicationFormDefinition_GetHashCode.md
+  - Events:
+    - ApplicationFormDefinition Events: Events_T_Citrix_SDK_AppDNA_ApplicationFormDefinition.md
+    - ApplicationFormDefinition.Deleted Event: E_Citrix_SDK_AppDNA_ApplicationFormDefinition_Deleted.md
+    - ApplicationFormDefinition.PropertyChanged Event: E_Citrix_SDK_AppDNA_ApplicationFormDefinition_PropertyChanged.md
+- ApplicationFormField Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationFormField.md
+  - ApplicationFormField Constructor: M_Citrix_SDK_AppDNA_ApplicationFormField__ctor.md
+  - Properties:
+    - ApplicationFormField Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationFormField.md
+    - ApplicationFormField.Identifier Property: P_Citrix_SDK_AppDNA_ApplicationFormField_Identifier.md
+    - ApplicationFormField.Name Property: P_Citrix_SDK_AppDNA_ApplicationFormField_Name.md
+  - Methods:
+    - ApplicationFormField Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationFormField.md
+    - ApplicationFormField.Equals Method: Overload_Citrix_SDK_AppDNA_ApplicationFormField_Equals.md
+    - ApplicationFormField.Equals Method (ApplicationFormField): M_Citrix_SDK_AppDNA_ApplicationFormField_Equals.md
+  - Events:
+    - ApplicationFormField Events: Events_T_Citrix_SDK_AppDNA_ApplicationFormField.md
+    - ApplicationFormField.Deleted Event: E_Citrix_SDK_AppDNA_ApplicationFormField_Deleted.md
+    - ApplicationFormField.PropertyChanged Event: E_Citrix_SDK_AppDNA_ApplicationFormField_PropertyChanged.md
+- ApplicationFormService Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationFormService.md
+  - Methods:
+    - ApplicationFormService Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationFormService.md
+    - ApplicationFormService.Delete Method: M_Citrix_SDK_AppDNA_ApplicationFormService_Delete.md
+    - ApplicationFormService.Get Method: Overload_Citrix_SDK_AppDNA_ApplicationFormService_Get.md
+    - ApplicationFormService.Get Method: M_Citrix_SDK_AppDNA_ApplicationFormService_Get.md
+    - ApplicationFormService.Get Method (Application): M_Citrix_SDK_AppDNA_ApplicationFormService_Get_1.md
+    - ApplicationFormService.Get Method (IEnumerable(Application)): M_Citrix_SDK_AppDNA_ApplicationFormService_Get_3.md
+    - ApplicationFormService.Get Method (Application, ApplicationFormDefinition): M_Citrix_SDK_AppDNA_ApplicationFormService_Get_2.md
+    - ApplicationFormService.Save Method: M_Citrix_SDK_AppDNA_ApplicationFormService_Save.md
+- ApplicationGroup Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationGroup.md
+  - Properties:
+    - ApplicationGroup Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationGroup.md
+    - ApplicationGroup.ChildGroups Property: P_Citrix_SDK_AppDNA_ApplicationGroup_ChildGroups.md
+    - ApplicationGroup.ParentGroup Property: P_Citrix_SDK_AppDNA_ApplicationGroup_ParentGroup.md
+  - Methods:
+    - ApplicationGroup Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationGroup.md
+    - ApplicationGroup.Delete Method: M_Citrix_SDK_AppDNA_ApplicationGroup_Delete.md
+    - ApplicationGroup.Equals Method: Overload_Citrix_SDK_AppDNA_ApplicationGroup_Equals.md
+    - ApplicationGroup.Equals Method (Object): M_Citrix_SDK_AppDNA_ApplicationGroup_Equals_1.md
+    - ApplicationGroup.Equals Method (ApplicationGroup): M_Citrix_SDK_AppDNA_ApplicationGroup_Equals.md
+    - ApplicationGroup.GetHashCode Method: M_Citrix_SDK_AppDNA_ApplicationGroup_GetHashCode.md
+    - ApplicationGroup.SetParentGroup Method: M_Citrix_SDK_AppDNA_ApplicationGroup_SetParentGroup.md
+  - Events:
+    - ApplicationGroup Events: Events_T_Citrix_SDK_AppDNA_ApplicationGroup.md
+- ApplicationGroupCollection Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationGroupCollection.md
+  - ApplicationGroupCollection Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationGroupCollection.md
+  - ApplicationGroupCollection Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationGroupCollection.md
+  - ApplicationGroupCollection Events: Events_T_Citrix_SDK_AppDNA_ApplicationGroupCollection.md
+- ApplicationGroupFilter Enumeration: T_Citrix_SDK_AppDNA_ApplicationGroupFilter.md
+- ApplicationGroupHierarchyRoot Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationGroupHierarchyRoot.md
+  - Properties:
+    - ApplicationGroupHierarchyRoot Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationGroupHierarchyRoot.md
+    - ApplicationGroupHierarchyRoot.RootGroups Property: P_Citrix_SDK_AppDNA_ApplicationGroupHierarchyRoot_RootGroups.md
+    - ApplicationGroupHierarchyRoot Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationGroupHierarchyRoot.md
+- ApplicationGrouping Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationGrouping.md
+  - Properties:
+  - ApplicationGrouping Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationGrouping.md
+    - ApplicationGrouping.Applications Property: P_Citrix_SDK_AppDNA_ApplicationGrouping_Applications.md
+    - ApplicationGrouping.Description Property: P_Citrix_SDK_AppDNA_ApplicationGrouping_Description.md
+    - ApplicationGrouping.IsDeleted Property: P_Citrix_SDK_AppDNA_ApplicationGrouping_IsDeleted.md
+    - ApplicationGrouping.Name Property: P_Citrix_SDK_AppDNA_ApplicationGrouping_Name.md
+  - Methods:
+    - ApplicationGrouping Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationGrouping.md
+    - ApplicationGrouping.Add Method: Overload_Citrix_SDK_AppDNA_ApplicationGrouping_Add.md
+    - ApplicationGrouping.Add Method (Application): M_Citrix_SDK_AppDNA_ApplicationGrouping_Add.md
+    - ApplicationGrouping.Add Method (IEnumerable(Application)): M_Citrix_SDK_AppDNA_ApplicationGrouping_Add_1.md
+    - ApplicationGrouping.Delete Method: M_Citrix_SDK_AppDNA_ApplicationGrouping_Delete.md
+    - ApplicationGrouping.Equals Method: Overload_Citrix_SDK_AppDNA_ApplicationGrouping_Equals.md
+    - ApplicationGrouping.Equals Method (ApplicationGrouping): M_Citrix_SDK_AppDNA_ApplicationGrouping_Equals.md
+    - ApplicationGrouping.NotifyPropertyChanged Method: M_Citrix_SDK_AppDNA_ApplicationGrouping_NotifyPropertyChanged.md
+    - ApplicationGrouping.Remove Method: Overload_Citrix_SDK_AppDNA_ApplicationGrouping_Remove.md
+    - ApplicationGrouping.Remove Method (Application): M_Citrix_SDK_AppDNA_ApplicationGrouping_Remove.md
+    - ApplicationGrouping.Remove Method (IEnumerable(Application)): M_Citrix_SDK_AppDNA_ApplicationGrouping_Remove_1.md
+  - Events:
+    - ApplicationGrouping Events: Events_T_Citrix_SDK_AppDNA_ApplicationGrouping.md
+    - ApplicationGrouping.Deleted Event: E_Citrix_SDK_AppDNA_ApplicationGrouping_Deleted.md
+    - ApplicationGrouping.PropertyChanged Event: E_Citrix_SDK_AppDNA_ApplicationGrouping_PropertyChanged.md
+- ApplicationGroupService Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationGroupService.md
+  - Methods:
+    - ApplicationGroupService Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationGroupService.md
+    - ApplicationGroupService.Create Method: Overload_Citrix_SDK_AppDNA_ApplicationGroupService_Create.md
+    - ApplicationGroupService.Create Method (String, String): M_Citrix_SDK_AppDNA_ApplicationGroupService_Create.md
+    - ApplicationGroupService.Create Method (String, String, ApplicationGroup): M_Citrix_SDK_AppDNA_ApplicationGroupService_Create_1.md
+    - ApplicationGroupService.Delete Method: Overload_Citrix_SDK_AppDNA_ApplicationGroupService_Delete.md
+    - ApplicationGroupService.Delete Method (ApplicationGroup[]): M_Citrix_SDK_AppDNA_ApplicationGroupService_Delete.md
+    - ApplicationGroupService.Delete Method (IEnumerable(ApplicationGroup)): M_Citrix_SDK_AppDNA_ApplicationGroupService_Delete_1.md
+    - ApplicationGroupService.Get Method: Overload_Citrix_SDK_AppDNA_ApplicationGroupService_Get.md
+    - ApplicationGroupService.Get Method: M_Citrix_SDK_AppDNA_ApplicationGroupService_Get.md
+    - ApplicationGroupService.Get Method (String): M_Citrix_SDK_AppDNA_ApplicationGroupService_Get_1.md
+    - ApplicationGroupService.GetApplicationGroupHierarchyRoot Method: M_Citrix_SDK_AppDNA_ApplicationGroupService_GetApplicationGroupHierarchyRoot.md
+- ApplicationImportConfiguration Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationImportConfiguration.md
+  - Constructor:
+    - ApplicationImportConfiguration Constructor: Overload_Citrix_SDK_AppDNA_ApplicationImportConfiguration__ctor.md
+    - ApplicationImportConfiguration Constructor: M_Citrix_SDK_AppDNA_ApplicationImportConfiguration__ctor.md
+    - ApplicationImportConfiguration Constructor (String): M_Citrix_SDK_AppDNA_ApplicationImportConfiguration__ctor_1.md
+    - ApplicationImportConfiguration Constructor (String, Boolean): M_Citrix_SDK_AppDNA_ApplicationImportConfiguration__ctor_2.md
+  - Properties:
+    - ApplicationImportConfiguration Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationImportConfiguration.md
+    - ApplicationImportConfiguration.AutoAnalyseAllModules Property: P_Citrix_SDK_AppDNA_ApplicationImportConfiguration_AutoAnalyseAllModules.md
+    - ApplicationImportConfiguration.GeneratedMsiFolder Property: P_Citrix_SDK_AppDNA_ApplicationImportConfiguration_GeneratedMsiFolder.md
+    - ApplicationImportConfiguration.IceValidationConfig Property: P_Citrix_SDK_AppDNA_ApplicationImportConfiguration_IceValidationConfig.md
+    - ApplicationImportConfiguration.ModulesToAnalyse Property: P_Citrix_SDK_AppDNA_ApplicationImportConfiguration_ModulesToAnalyse.md
+    - ApplicationImportConfiguration.OutputFolder Property: P_Citrix_SDK_AppDNA_ApplicationImportConfiguration_OutputFolder.md
+    - ApplicationImportConfiguration.SaveDetailedLogs Property: P_Citrix_SDK_AppDNA_ApplicationImportConfiguration_SaveDetailedLogs.md
+    - ApplicationImportConfiguration.SynchronizationContext Property: P_Citrix_SDK_AppDNA_ApplicationImportConfiguration_SynchronizationContext.md
+  - Methods:
+    - ApplicationImportConfiguration Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationImportConfiguration.md
+- ApplicationImportStateChangedEventHandler Delegate: T_Citrix_SDK_AppDNA_ApplicationImportStateChangedEventHandler.md
+- ApplicationPerformanceCounter Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationPerformanceCounter.md
+  - Properties:
+    - ApplicationPerformanceCounter Properties: Properties_T_Citrix_SDK_AppDNA_ApplicationPerformanceCounter.md
+    - ApplicationPerformanceCounter.Counter Property: P_Citrix_SDK_AppDNA_ApplicationPerformanceCounter_Counter.md
+    - ApplicationPerformanceCounter.Value Property: P_Citrix_SDK_AppDNA_ApplicationPerformanceCounter_Value.md
+  - Methods:
+    - ApplicationPerformanceCounter Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationPerformanceCounter.md
+    - ApplicationPerformanceCounter.Equals Method: Overload_Citrix_SDK_AppDNA_ApplicationPerformanceCounter_Equals.md
+    - ApplicationPerformanceCounter.Equals Method (ApplicationPerformanceCounter): M_Citrix_SDK_AppDNA_ApplicationPerformanceCounter_Equals.md
+  - Events:
+    - ApplicationPerformanceCounter Events: Events_T_Citrix_SDK_AppDNA_ApplicationPerformanceCounter.md
+    - ApplicationPerformanceCounter.Deleted Event: E_Citrix_SDK_AppDNA_ApplicationPerformanceCounter_Deleted.md
+    - ApplicationPerformanceCounter.PropertyChanged Event: E_Citrix_SDK_AppDNA_ApplicationPerformanceCounter_PropertyChanged.md
+- ApplicationService Class:
+  - Class: T_Citrix_SDK_AppDNA_ApplicationService.md
+  - Methods:
+    - ApplicationService Methods: Methods_T_Citrix_SDK_AppDNA_ApplicationService.md
+    - ApplicationService.Create Method: Overload_Citrix_SDK_AppDNA_ApplicationService_Create.md
+    - ApplicationService.Create Method (String): M_Citrix_SDK_AppDNA_ApplicationService_Create.md
+    - ApplicationService.Create Method (String, String, String): M_Citrix_SDK_AppDNA_ApplicationService_Create_1.md
+    - ApplicationService.Create Method (String, String, String, String): M_Citrix_SDK_AppDNA_ApplicationService_Create_2.md
+    - ApplicationService.CreateAsync Method: M_Citrix_SDK_AppDNA_ApplicationService_CreateAsync.md
+    - ApplicationService.Delete Method: Overload_Citrix_SDK_AppDNA_ApplicationService_Delete.md
+    - ApplicationService.Delete Method (Application[]): M_Citrix_SDK_AppDNA_ApplicationService_Delete.md
+    - ApplicationService.Delete Method (IEnumerable(Application)): M_Citrix_SDK_AppDNA_ApplicationService_Delete_1.md
+    - ApplicationService.Delete Method (IEnumerable(Application), ApplicationDeleteOptions): M_Citrix_SDK_AppDNA_ApplicationService_Delete_2.md
+    - ApplicationService.Get Method: Overload_Citrix_SDK_AppDNA_ApplicationService_Get.md
+    - ApplicationService.Get Method: M_Citrix_SDK_AppDNA_ApplicationService_Get.md
+    - ApplicationService.Get Method (IEnumerable(Int64)): M_Citrix_SDK_AppDNA_ApplicationService_Get_5.md
+    - ApplicationService.Get Method (Int64): M_Citrix_SDK_AppDNA_ApplicationService_Get_6.md
+    - ApplicationService.Get Method (String): M_Citrix_SDK_AppDNA_ApplicationService_Get_7.md
+    - ApplicationService.Get Method (ApplicationFilter, Object): M_Citrix_SDK_AppDNA_ApplicationService_Get_1.md
+    - ApplicationService.Get Method (ApplicationFilter, Object, Int32): M_Citrix_SDK_AppDNA_ApplicationService_Get_2.md
+    - ApplicationService.Get Method (ApplicationFilter, Object, Int32, Int32): M_Citrix_SDK_AppDNA_ApplicationService_Get_3.md
+    - ApplicationService.Get Method (ApplicationFilter, Object, Int32, Int32, ApplicationFilter): M_Citrix_SDK_AppDNA_ApplicationService_Get_4.md
+    - ApplicationService.GetAllAttachmentsMetaData Method: Overload_Citrix_SDK_AppDNA_ApplicationService_GetAllAttachmentsMetaData.md
+    - ApplicationService.GetAllAttachmentsMetaData Method (Int32): M_Citrix_SDK_AppDNA_ApplicationService_GetAllAttachmentsMetaData_1.md
+    - ApplicationService.GetAllAttachmentsMetaData Method (Application, Boolean): M_Citrix_SDK_AppDNA_ApplicationService_GetAllAttachmentsMetaData.md
+    - ApplicationService.GetAsync Method: Overload_Citrix_SDK_AppDNA_ApplicationService_GetAsync.md
+    - ApplicationService.GetAsync Method: M_Citrix_SDK_AppDNA_ApplicationService_GetAsync.md
+    - ApplicationService.GetAsync Method (IEnumerable(Int64)): M_Citrix_SDK_AppDNA_ApplicationService_GetAsync_5.md
+    - ApplicationService.GetAsync Method (ApplicationFilter, Object): M_Citrix_SDK_AppDNA_ApplicationService_GetAsync_1.md
+    - ApplicationService.GetAsync Method (ApplicationFilter, Object, Int32): M_Citrix_SDK_AppDNA_ApplicationService_GetAsync_2.md
+    - ApplicationService.GetAsync Method (ApplicationFilter, Object, Int32, Int32): M_Citrix_SDK_AppDNA_ApplicationService_GetAsync_3.md
+    - ApplicationService.GetAsync Method (ApplicationFilter, Object, Int32, Int32, ApplicationFilter): M_Citrix_SDK_AppDNA_ApplicationService_GetAsync_4.md
+    - ApplicationService.GetAttachmentData Method: M_Citrix_SDK_AppDNA_ApplicationService_GetAttachmentData.md
+    - ApplicationService.GetCount Method: M_Citrix_SDK_AppDNA_ApplicationService_GetCount.md
+    - ApplicationService.GetCountAsync Method: M_Citrix_SDK_AppDNA_ApplicationService_GetCountAsync.md
+    - ApplicationService.GetProfileData Method: M_Citrix_SDK_AppDNA_ApplicationService_GetProfileData.md
+    - ApplicationService.GetSystemFrameworks Method: M_Citrix_SDK_AppDNA_ApplicationService_GetSystemFrameworks.md
+    - ApplicationService.Import Method: Overload_Citrix_SDK_AppDNA_ApplicationService_Import.md
+    - ApplicationService.Import Method (IEnumerable(ImportSourceDetails), ApplicationImportConfiguration): M_Citrix_SDK_AppDNA_ApplicationService_Import.md
+    - ApplicationService.Import Method (IEnumerable(ImportSourceDetails), String): M_Citrix_SDK_AppDNA_ApplicationService_Import_2.md
+    - ApplicationService.Import Method (String, ApplicationImportConfiguration, String): M_Citrix_SDK_AppDNA_ApplicationService_Import_3.md
+    - ApplicationService.Import Method (String, String, String): M_Citrix_SDK_AppDNA_ApplicationService_Import_6.md
+    - ApplicationService.Import Method (String, IEnumerable(String), ApplicationImportConfiguration, String): M_Citrix_SDK_AppDNA_ApplicationService_Import_4.md
+    - ApplicationService.Import Method (String, IEnumerable(String), String, String): M_Citrix_SDK_AppDNA_ApplicationService_Import_5.md
+    - ApplicationService.Import Method (IEnumerable(ImportSourceDetails), ApplicationImportConfiguration, Nullable(Int64), Boolean): M_Citrix_SDK_AppDNA_ApplicationService_Import_1.md
+    - ApplicationService.ImportWeb Method: Overload_Citrix_SDK_AppDNA_ApplicationService_ImportWeb.md
+    - ApplicationService.ImportWeb Method (IEnumerable(ImportSourceDetails), ApplicationImportConfiguration): M_Citrix_SDK_AppDNA_ApplicationService_ImportWeb.md
+    - ApplicationService.ImportWeb Method (IEnumerable(ImportSourceDetails), String): M_Citrix_SDK_AppDNA_ApplicationService_ImportWeb_1.md
+    - ApplicationService.ImportWeb Method (IEnumerable(WebImportSourceDetails), WebApplicationImportConfiguration): M_Citrix_SDK_AppDNA_ApplicationService_ImportWeb_2.md
+    - ApplicationService.ImportWeb Method (String, ApplicationImportConfiguration, String): M_Citrix_SDK_AppDNA_ApplicationService_ImportWeb_3.md
+    - ApplicationService.ImportWeb Method (String, String, String): M_Citrix_SDK_AppDNA_ApplicationService_ImportWeb_4.md
+    - ApplicationService.InstallCapture Method: Overload_Citrix_SDK_AppDNA_ApplicationService_InstallCapture.md
+    - ApplicationService.InstallCapture Method (IEnumerable(InstallCaptureSourceDetails), InstallCaptureConfiguration): M_Citrix_SDK_AppDNA_ApplicationService_InstallCapture_1.md
+    - ApplicationService.InstallCapture Method (IEnumerable(InstallCaptureSourceDetails), InstallCaptureConfiguration, Nullable(Int64)): M_Citrix_SDK_AppDNA_ApplicationService_InstallCapture_2.md
+    - ApplicationService.InstallCapture Method (InstallCaptureSourceDetails, String, String, String): M_Citrix_SDK_AppDNA_ApplicationService_InstallCapture.md
+    - ApplicationService.InstallCapture Method (IEnumerable(InstallCaptureSourceDetails), String, String, String): M_Citrix_SDK_AppDNA_ApplicationService_InstallCapture_3.md
+    - ApplicationService.SetAttachment Method: Overload_Citrix_SDK_AppDNA_ApplicationService_SetAttachment.md
+    - ApplicationService.SetAttachment Method (Application, FileInfo): M_Citrix_SDK_AppDNA_ApplicationService_SetAttachment.md
+    - ApplicationService.SetAttachment Method (Int32, String, Byte[], Byte[]): M_Citrix_SDK_AppDNA_ApplicationService_SetAttachment_2.md
+    - ApplicationService.SetAttachment Method (Application, String, Byte[], Byte[]): M_Citrix_SDK_AppDNA_ApplicationService_SetAttachment_1.md
+    - ApplicationService.SetProfilingData Method: Overload_Citrix_SDK_AppDNA_ApplicationService_SetProfilingData.md
+    - ApplicationService.SetProfilingData Method (Application, Dictionary(String, Double)): M_Citrix_SDK_AppDNA_ApplicationService_SetProfilingData.md
+    - ApplicationService.SetProfilingData Method (Application, IEnumerable(ApplicationPerformanceCounter)): M_Citrix_SDK_AppDNA_ApplicationService_SetProfilingData_1.md
+- ApplicationStateEnum Enumeration: T_Citrix_SDK_AppDNA_ApplicationStateEnum.md
+- AttributeDefinitionDataType Enumeration: T_Citrix_SDK_AppDNA_AttributeDefinitionDataType.md
+- AttributeDefinitionVisibilities Enumeration: T_Citrix_SDK_AppDNA_AttributeDefinitionVisibilities.md
+- AttributeStringList Class:
+  - Class: T_Citrix_SDK_AppDNA_AttributeStringList.md
+  - Properties:
+    - AttributeStringList Properties: Properties_T_Citrix_SDK_AppDNA_AttributeStringList.md
+    - AttributeStringList.Description Property: P_Citrix_SDK_AppDNA_AttributeStringList_Description.md
+    - AttributeStringList.Id Property: P_Citrix_SDK_AppDNA_AttributeStringList_Id.md
+    - AttributeStringList.Identifier Property: P_Citrix_SDK_AppDNA_AttributeStringList_Identifier.md
+    - AttributeStringList.Name Property: P_Citrix_SDK_AppDNA_AttributeStringList_Name.md
+    - AttributeStringList.StringList Property: P_Citrix_SDK_AppDNA_AttributeStringList_StringList.md
+  - Methods:
+    - AttributeStringList Methods: Methods_T_Citrix_SDK_AppDNA_AttributeStringList.md
+    - AttributeStringList.AddString Method: M_Citrix_SDK_AppDNA_AttributeStringList_AddString.md
+    - AttributeStringList.Delete Method: M_Citrix_SDK_AppDNA_AttributeStringList_Delete.md
+    - AttributeStringList.Equals Method: Overload_Citrix_SDK_AppDNA_AttributeStringList_Equals.md
+    - AttributeStringList.Equals Method (Object): M_Citrix_SDK_AppDNA_AttributeStringList_Equals_1.md
+    - AttributeStringList.Equals Method (AttributeStringList): M_Citrix_SDK_AppDNA_AttributeStringList_Equals.md
+    - AttributeStringList.GetHashCode Method: M_Citrix_SDK_AppDNA_AttributeStringList_GetHashCode.md
+    - AttributeStringList.RemoveString Method: M_Citrix_SDK_AppDNA_AttributeStringList_RemoveString.md
+    - AttributeStringList.ReplaceString Method: M_Citrix_SDK_AppDNA_AttributeStringList_ReplaceString.md
+    - AttributeStringList.SetOrder Method: M_Citrix_SDK_AppDNA_AttributeStringList_SetOrder.md
+  - Events:
+    - AttributeStringList Events: Events_T_Citrix_SDK_AppDNA_AttributeStringList.md
+    - AttributeStringList.Deleted Event: E_Citrix_SDK_AppDNA_AttributeStringList_Deleted.md
+    - AttributeStringList.PropertyChanged Event: E_Citrix_SDK_AppDNA_AttributeStringList_PropertyChanged.md
+-
