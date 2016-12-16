@@ -1,0 +1,28 @@
+# StaticAttributeService.GetStaticAttributes Method 
+ 
+
+Return collection all existing static attributes
+
+**Namespace:**&nbsp;<a href="N_Citrix_SDK_AppDNA">Citrix.SDK.AppDNA</a><br />**Assembly:**&nbsp;Citrix.SDK.AppDNA (in Citrix.SDK.AppDNA.dll) Version: 7.11.0.0 (7.11.0.0)
+
+## Syntax
+
+###C#
+```csharp
+public Collection<StaticAttribute> GetStaticAttributes()
+```
+
+###VB
+```vbnet
+Public Function GetStaticAttributes As Collection(Of StaticAttribute)
+```
+
+
+#### Return Value
+Type: <a href="http://msdn2.microsoft.com/en-us/library/ms132397" target="_blank">Collection</a>(<a href="T_Citrix_SDK_AppDNA_StaticAttribute">StaticAttribute</a>)<br />
+
+## See Also
+
+
+#### Reference
+<a href="T_Citrix_SDK_AppDNA_StaticAttributeService">StaticAttributeService Class</a><br /><a href="N_Citrix_SDK_AppDNA">Citrix.SDK.AppDNA Namespace</a><br />

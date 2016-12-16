@@ -1,0 +1,19 @@
+# ApplicationAttribute(*T*) Events
+ 
+
+The <a href="T_Citrix_SDK_AppDNA_ApplicationAttribute_1">ApplicationAttribute(T)</a> generic type exposes the following members.
+
+
+## Events
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="E_Citrix_SDK_AppDNA_ApplicationAttribute_Deleted">Deleted</a></td><td>
+This event is raised when this ApplicationAttribute object is deleted using the SDK.
+ (Inherited from <a href="T_Citrix_SDK_AppDNA_ApplicationAttribute">ApplicationAttribute</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="E_Citrix_SDK_AppDNA_ApplicationAttribute_PropertyChanged">PropertyChanged</a></td><td>
+Occurs when a property value changes.
+ (Inherited from <a href="T_Citrix_SDK_AppDNA_ApplicationAttribute">ApplicationAttribute</a>.)</td></tr></table>&nbsp;
+<a href="#applicationattribute(*t*)-events">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Citrix_SDK_AppDNA_ApplicationAttribute_1">ApplicationAttribute(T) Class</a><br /><a href="N_Citrix_SDK_AppDNA">Citrix.SDK.AppDNA Namespace</a><br />
