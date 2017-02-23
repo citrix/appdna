@@ -25796,27 +25796,27 @@ https://www.citrix.com/etc/designs/citrix/icon-favicon.png">
                 <h1 id="analyze-applications"><a class="toclink" href="#analyze-applications">Analyze applications</a></h1>
 <p>To retrieve the algorithm results for a set of applications, for a given ReportConfiguration, the applications must first be analyzed. Analysis of applications is triggered either from a ReportConfiguration object or from the object returned by Server.ReportConfiguration.</p>
 <p>For a single module, use the ReportConfiguration object's Analyze method; for example:</p>
-<div class="codehilite"><pre><span></span><span class="nt">using</span> <span class="nt">AppDNA</span> <span class="o">=</span> <span class="nt">Citrix</span><span class="nc">.SDK.AppDNA</span><span class="o">;</span>
-<span class="nt">AppDNA</span><span class="nc">.Server</span> <span class="nt">appdna</span><span class="o">;</span>
+<div class="codehilite"><pre><span></span><span class="nt">using</span> <span class="nt">AppDNA</span> <span class="o">=</span> <span class="nt">Citrix</span><span class="p">.</span><span class="nc">SDK</span><span class="p">.</span><span class="nc">AppDNA</span><span class="o">;</span>
+<span class="nt">AppDNA</span><span class="p">.</span><span class="nc">Server</span> <span class="nt">appdna</span><span class="o">;</span>
 <span class="o">//</span><span class="nt">Connect</span> <span class="nt">appdna</span>
 
-    <span class="nt">public</span> <span class="nt">void</span> <span class="nt">Analyze</span><span class="o">(</span><span class="nt">string</span> <span class="nt">reportConfigIdentifier</span><span class="o">,</span> <span class="nt">IEnumerable</span><span class="o">&lt;</span><span class="nt">AppDNA</span><span class="nc">.Application</span><span class="o">&gt;</span> <span class="nt">applications</span><span class="o">)</span>
+    <span class="nt">public</span> <span class="nt">void</span> <span class="nt">Analyze</span><span class="o">(</span><span class="nt">string</span> <span class="nt">reportConfigIdentifier</span><span class="o">,</span> <span class="nt">IEnumerable</span><span class="o">&lt;</span><span class="nt">AppDNA</span><span class="p">.</span><span class="nc">Application</span><span class="o">&gt;</span> <span class="nt">applications</span><span class="o">)</span>
     <span class="p">{</span>
-        <span class="n">var</span> <span class="n">reportConfig</span> <span class="o">=</span> <span class="n">appdna</span><span class="o">.</span><span class="n">ReportConfiguration</span><span class="o">.</span><span class="n">Get</span><span class="p">(</span><span class="n">reportConfigIdentifier</span><span class="p">);</span>
-        <span class="n">var</span> <span class="n">analysis</span> <span class="o">=</span> <span class="n">reportConfig</span><span class="o">.</span><span class="n">Analyze</span><span class="p">(</span> <span class="n">applications</span> <span class="p">);</span> <span class="n">analysis</span><span class="o">.</span><span class="n">WaitForCompletion</span><span class="p">();</span>
+        <span class="err">var</span> <span class="err">reportConfig</span> <span class="err">=</span> <span class="err">appdna.ReportConfiguration.Get(reportConfigIdentifier)</span><span class="p">;</span>
+        <span class="err">var</span> <span class="err">analysis</span> <span class="err">=</span> <span class="err">reportConfig.Analyze(</span> <span class="err">applications</span> <span class="err">)</span><span class="p">;</span> <span class="err">analysis.WaitForCompletion()</span><span class="p">;</span>
 
-        <span class="n">switch</span> <span class="p">(</span><span class="n">analysis</span><span class="o">.</span><span class="n">ProcessingState</span><span class="o">.</span><span class="n">State</span><span class="p">)</span>
+        <span class="err">switch</span> <span class="err">(analysis.ProcessingState.State)</span>
         <span class="err">{</span>
-            <span class="n">case</span> <span class="n">AppDNA</span><span class="o">.</span><span class="n">RunningState</span><span class="o">.</span><span class="n">Canceled</span><span class="o">:</span>
-                <span class="n">Console</span><span class="o">.</span><span class="n">WriteLine</span><span class="p">(</span><span class="s2">&quot;The analysis was canceled&quot;</span><span class="p">);</span>
-                <span class="n">break</span><span class="p">;</span>
-            <span class="n">case</span> <span class="n">AppDNA</span><span class="o">.</span><span class="n">RunningState</span><span class="o">.</span><span class="n">Completed</span><span class="o">:</span>
-                <span class="n">Console</span><span class="o">.</span><span class="n">WriteLine</span><span class="p">(</span><span class="s2">&quot;The analysis completed successfully&quot;</span><span class="p">);</span>
-                <span class="n">break</span><span class="p">;</span>
-            <span class="n">case</span> <span class="n">AppDNA</span><span class="o">.</span><span class="n">RunningState</span><span class="o">.</span><span class="n">Failed</span><span class="o">:</span>
-                <span class="n">Console</span><span class="o">.</span><span class="n">WriteLine</span><span class="p">(</span><span class="s2">&quot;The analysis failed with error: &quot;</span> <span class="o">+</span> <span class="n">analysis</span><span class="o">.</span><span class="n">ProcessingState</span><span class="o">.</span><span class="n">Result</span><span class="o">:</span><span class="p">;</span>
-                <span class="n">break</span><span class="p">;</span>
-        <span class="p">}</span>
+            <span class="err">case</span> <span class="err">AppDNA.RunningState.</span><span class="n">Canceled</span><span class="p">:</span>
+                <span class="n">Console</span><span class="o">.</span><span class="nf">WriteLine</span><span class="p">(</span><span class="s2">&quot;The analysis was canceled&quot;</span><span class="p">);</span>
+                <span class="err">break</span><span class="p">;</span>
+            <span class="err">case</span> <span class="err">AppDNA.RunningState.</span><span class="n">Completed</span><span class="p">:</span>
+                <span class="n">Console</span><span class="o">.</span><span class="nf">WriteLine</span><span class="p">(</span><span class="s2">&quot;The analysis completed successfully&quot;</span><span class="p">);</span>
+                <span class="err">break</span><span class="p">;</span>
+            <span class="err">case</span> <span class="err">AppDNA.RunningState.</span><span class="n">Failed</span><span class="p">:</span>
+                <span class="n">Console</span><span class="o">.</span><span class="nf">WriteLine</span><span class="p">(</span><span class="s2">&quot;The analysis failed with error: &quot;</span> <span class="o">+</span> <span class="n">analysis</span><span class="err">.</span><span class="n">ProcessingState</span><span class="err">.</span><span class="n">Result</span><span class="err">:;</span>
+                <span class="n">break</span><span class="err">;</span>
+        <span class="err">}</span>
     <span class="err">}</span>
 </pre></div>
 

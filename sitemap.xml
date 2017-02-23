@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,37 +13,37 @@
         
     <url>
      <loc>None/access/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/dna-sdk-connect-server/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/dna-sdk-import/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/dna-sdk-app-attributes/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/dna-sdk-analyze/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/dna-sdk-report-data/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -52,7 +52,7 @@
     
     <url>
      <loc>None/data/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
      <loc>None/appdna-sdk-namespace/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -69,7 +69,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Algorithm/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -85,7 +85,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_AlgorithmAction/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -107,7 +107,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_AlgorithmActionDetail/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -129,7 +129,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_AlgorithmCustomization/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -141,7 +141,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_AlgorithmCustomization/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -151,7 +151,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_AlgorithmGroup/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -163,7 +163,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_AlgorithmGroup/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -179,7 +179,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Analysis/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -200,7 +200,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_AnalysisStartedEventHander/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -209,7 +209,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_AppDNAException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -221,19 +221,19 @@
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_AppDNAException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_AppDNAException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_AppDNAException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -243,7 +243,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Application/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -271,7 +271,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationAlgorithmResult/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -293,7 +293,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationAttachment/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -309,7 +309,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -325,7 +325,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationAttribute_1/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -341,25 +341,25 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationAttributeCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_ApplicationAttributeCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_ApplicationAttributeCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_ApplicationAttributeCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -369,7 +369,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationAttributeDefinition/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -385,7 +385,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationAttributeDefinitionService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -400,7 +400,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationDeleteOptions/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -408,7 +408,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationFilter/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -417,7 +417,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationForm/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -445,7 +445,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationFormDefinition/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -473,13 +473,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationFormField/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_ApplicationFormField__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -507,7 +507,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationFormService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -523,7 +523,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationGroup/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -551,25 +551,25 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationGroupCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_ApplicationGroupCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_ApplicationGroupCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_ApplicationGroupCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -578,7 +578,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationGroupFilter/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -587,7 +587,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationGroupHierarchyRoot/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -603,7 +603,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationGrouping/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -631,7 +631,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationGroupService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -647,7 +647,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationImportConfiguration/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -674,7 +674,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationImportStateChangedEventHandler/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -683,7 +683,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationPerformanceCounter/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -711,7 +711,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -726,7 +726,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ApplicationStateEnum/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -734,7 +734,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_AttributeDefinitionDataType/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -742,7 +742,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_AttributeDefinitionVisibilities/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -751,7 +751,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_AttributeStringList/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -779,7 +779,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_AttributeStringListService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -795,7 +795,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_BooleanAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -807,13 +807,13 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_BooleanAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_BooleanAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -822,7 +822,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Compatibility/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -831,13 +831,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_DataEventArgs_1/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_DataEventArgs_1__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -859,13 +859,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_DataEventArgs_2/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_DataEventArgs_2__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -877,7 +877,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_DataEventArgs_2/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -887,7 +887,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_DateTimeAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -899,13 +899,13 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_DateTimeAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_DateTimeAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -914,7 +914,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_FileImportStateChangedEventHandler/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -923,7 +923,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_GeneralApplicationFormField_1/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -941,7 +941,7 @@
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_GeneralApplicationFormField_1/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -951,7 +951,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_IApplicationForm/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -967,13 +967,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_IceValidationConfig/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_IceValidationConfig__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -985,7 +985,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_IceValidationConfig/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -995,7 +995,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_IImportDetails/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1011,7 +1011,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Import/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1039,13 +1039,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ImportOSSourceDetails/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_ImportOSSourceDetails__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1057,7 +1057,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_ImportOSSourceDetails/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1067,7 +1067,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ImportSourceDetails/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1085,7 +1085,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_ImportSourceDetails/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1095,13 +1095,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_InstallCaptureConfiguration/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_InstallCaptureConfiguration__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1113,7 +1113,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_InstallCaptureConfiguration/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1123,13 +1123,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_InstallCaptureSourceDetails/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_InstallCaptureSourceDetails__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1141,7 +1141,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_InstallCaptureSourceDetails/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1151,7 +1151,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_IOrderedApplicationAttributeDefinition/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1167,7 +1167,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_IOrderedStaticAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1183,7 +1183,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_IStaticAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1199,7 +1199,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_NumericAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1211,13 +1211,13 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_NumericAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_NumericAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1227,7 +1227,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_OrderedApplicationAttributeDefinition/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1255,7 +1255,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_OrderedStaticAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1283,7 +1283,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_OSImage/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1310,7 +1310,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_OSImageFilter/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -1319,7 +1319,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_OSImageService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1335,7 +1335,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_OSImport/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1362,7 +1362,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_OSImportStateChangedEventHandler/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -1371,7 +1371,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_OSPatch/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1399,7 +1399,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_OSPatchFile/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1427,7 +1427,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_OSPatchService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1443,13 +1443,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_PatchImportResult/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_PatchImportResult__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1461,7 +1461,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_PatchImportResult/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1471,7 +1471,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_PerformanceCounter/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1499,7 +1499,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_PerformanceService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1515,7 +1515,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ProcessingState/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1543,13 +1543,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ProfileApplicationConfiguration/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_ProfileApplicationConfiguration__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1561,7 +1561,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_ProfileApplicationConfiguration/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1571,25 +1571,25 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ProfileApplicationSourceDetails/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_ProfileApplicationSourceDetails__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_ProfileApplicationSourceDetails/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_ProfileApplicationSourceDetails/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1599,31 +1599,31 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ProfileDataCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_ProfileDataCollection__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_ProfileDataCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_ProfileDataCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_ProfileDataCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1632,7 +1632,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Rag/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -1640,7 +1640,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Ragu/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -1649,7 +1649,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_RaguAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1661,13 +1661,13 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_RaguAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_RaguAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1677,7 +1677,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Report/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1705,7 +1705,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ReportConfiguration/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1733,7 +1733,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ReportConfigurationService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1749,7 +1749,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ReportedAlgorithm/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1771,7 +1771,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ReportedAlgorithmCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1793,7 +1793,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ReportedApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1815,7 +1815,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ReportedApplicationCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1836,7 +1836,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ReportExportFormat/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -1844,7 +1844,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ReportingConfigurationFilter/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -1852,7 +1852,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ReportRag/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -1861,7 +1861,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ReportService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1876,7 +1876,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ReportType/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -1885,25 +1885,25 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_RequiredApplicationCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_RequiredApplicationCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_RequiredApplicationCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_RequiredApplicationCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1913,7 +1913,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ResultByAlgorithmCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1935,7 +1935,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ResultByApplicationCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1956,7 +1956,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_RunningState/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -1965,7 +1965,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Server/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1987,7 +1987,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_ServerTaskException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -1999,19 +1999,19 @@
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_ServerTaskException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_ServerTaskException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_ServerTaskException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2021,7 +2021,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_SettingsService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2037,7 +2037,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solution/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2065,7 +2065,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_SolutionConfigurationException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2087,7 +2087,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_SolutionService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2103,7 +2103,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_SolutionTemplate/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2131,7 +2131,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_SolutionTemplateService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2146,7 +2146,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_SourceCategory/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -2155,7 +2155,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_StaticApplicationFormField/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2173,7 +2173,7 @@
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_StaticApplicationFormField/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2183,7 +2183,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_StaticAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2211,7 +2211,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_StaticAttributeService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2226,7 +2226,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_StaticFieldType/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -2235,7 +2235,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_StringAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2247,13 +2247,13 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_StringAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_StringAttribute/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2262,7 +2262,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_TrustLevel/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -2271,7 +2271,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_VirtualMachineConfiguration/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2299,7 +2299,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_VirtualMachineConfigurationService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2315,13 +2315,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_WebApplicationImportConfiguration/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_WebApplicationImportConfiguration__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2333,7 +2333,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_WebApplicationImportConfiguration/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2342,7 +2342,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_WebApplicationImportMode/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -2351,13 +2351,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_WebCaptureSettings/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_WebCaptureSettings__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2369,7 +2369,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_WebCaptureSettings/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2379,7 +2379,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_WebImportSourceDetails/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2397,7 +2397,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_WebImportSourceDetails/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2406,7 +2406,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Interfaces/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -2415,7 +2415,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Interfaces_IAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2431,7 +2431,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Interfaces_IAnalysisModuleTargetInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2447,7 +2447,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Interfaces_IModuleProductInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2463,7 +2463,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Interfaces_ISolution/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2484,7 +2484,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Reporting/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -2493,13 +2493,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Reporting_AlgorithmGroupInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Reporting_AlgorithmGroupInfo__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2511,7 +2511,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Reporting_AlgorithmGroupInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2521,7 +2521,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Reporting_AnalysisData/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2539,7 +2539,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Reporting_AnalysisData/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2549,13 +2549,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Reporting_AnalysisModuleTargetInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Reporting_AnalysisModuleTargetInfo__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2567,7 +2567,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Reporting_AnalysisModuleTargetInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2577,13 +2577,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Reporting_ModuleProductInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Reporting_ModuleProductInfo__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2595,7 +2595,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Reporting_ModuleProductInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2605,13 +2605,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Reporting_ReportDescription/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Reporting_ReportDescription__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2623,7 +2623,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Reporting_ReportDescription/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2633,13 +2633,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Reporting_ReportingRequirementsData/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Reporting_ReportingRequirementsData__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2651,7 +2651,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Reporting_ReportingRequirementsData/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2661,13 +2661,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Reporting_ReportingRequirementsInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Reporting_ReportingRequirementsInfo__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2689,7 +2689,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Reporting_ReportOptions/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2722,7 +2722,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_AppDisks/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -2731,19 +2731,19 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksAnalysisDataProvider__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2753,13 +2753,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksReport/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksReport__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2771,7 +2771,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksReport/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2781,13 +2781,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksServer/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksServer__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2809,7 +2809,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksSolution/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2837,7 +2837,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksSolutionEdit/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2859,7 +2859,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksSolutionService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2875,7 +2875,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksSolutionTemplate/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2903,7 +2903,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppDisks_AppDisksSolutionTemplateService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2919,7 +2919,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppDisks_Chart/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2931,7 +2931,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppDisks_Chart/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2941,7 +2941,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppDisks_ChartService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2957,7 +2957,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppDisks_Constants/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2973,7 +2973,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppDisks_ISolutionConfig/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -2988,7 +2988,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_AppV/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -2997,7 +2997,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_ApplicationExtendedService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3012,7 +3012,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_AppSequencingValidation/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -3021,19 +3021,19 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_AppVAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_AppVAnalysisDataProvider__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_AppVAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3043,13 +3043,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_AppVServer/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_AppVServer__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3061,7 +3061,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_AppVServer/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3071,7 +3071,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_AppVSolution/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3099,7 +3099,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_AppVSolutionService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3115,7 +3115,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_AppVSolutionTemplate/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3143,7 +3143,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_AppVSolutionTemplateService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3159,7 +3159,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_AppVSolutionWorkflowService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3175,7 +3175,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Constants/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3191,7 +3191,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_ISolutionConfig/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3207,7 +3207,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_ISolutionVm/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3223,7 +3223,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_ISolutionVmConfig/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3239,13 +3239,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Sequencing/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_Sequencing__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3267,13 +3267,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_SequencingConfiguration/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_SequencingConfiguration__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3285,7 +3285,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_SequencingConfiguration/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3295,7 +3295,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VMSelectorsHelper/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3310,7 +3310,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_AppV_ExecutionProfiles/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -3319,7 +3319,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_ExecutionProfiles_AppVTaskException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3331,19 +3331,19 @@
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_Solutions_AppV_ExecutionProfiles_AppVTaskException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_ExecutionProfiles_AppVTaskException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_Solutions_AppV_ExecutionProfiles_AppVTaskException/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3353,7 +3353,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_ExecutionProfiles_Constants/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3368,7 +3368,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -3377,13 +3377,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest_ApplicationLauchEventError/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest_ApplicationLauchEventError__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3395,7 +3395,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest_ApplicationLauchEventError/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3405,13 +3405,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest_ApplicationLaunchTestResult/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest_ApplicationLaunchTestResult__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3423,7 +3423,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest_ApplicationLaunchTestResult/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3433,13 +3433,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest_AppVPackage/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest_AppVPackage__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3451,7 +3451,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest_AppVPackage/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3461,13 +3461,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest_LaunchTestManifest/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest_LaunchTestManifest__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3479,7 +3479,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_LaunchTest_LaunchTestManifest/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3488,7 +3488,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_AppV_Processing/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -3497,7 +3497,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Processing_AppVSolutionProcessing/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3525,7 +3525,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Processing_AppVSolutionStep/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3553,7 +3553,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Processing_IProcessingProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3581,13 +3581,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Processing_ProcessedMessageEventArgs/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_Processing_ProcessedMessageEventArgs__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3599,7 +3599,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_Processing_ProcessedMessageEventArgs/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3609,13 +3609,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Processing_ProcessingInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_Processing_ProcessingInfo__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3627,7 +3627,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_Processing_ProcessingInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3636,7 +3636,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Processing_ProcessingState/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -3645,7 +3645,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Processing_StepIdentifier/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3673,13 +3673,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Processing_StepProcessingMessageArgs/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_Processing_StepProcessingMessageArgs__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3691,7 +3691,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_Processing_StepProcessingMessageArgs/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3700,7 +3700,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_AppV_Sequence/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -3709,13 +3709,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Sequence_AppVPackageManager/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_Sequence_AppVPackageManager__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3731,13 +3731,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Sequence_SequenceIssue/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_Sequence_SequenceIssue__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3749,7 +3749,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_Sequence_SequenceIssue/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3759,13 +3759,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Sequence_SequenceIssueInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_Sequence_SequenceIssueInfo__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3777,7 +3777,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_Sequence_SequenceIssueInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3787,13 +3787,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Sequence_SequenceIssueInfoItem/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_Sequence_SequenceIssueInfoItem__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3805,7 +3805,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_Sequence_SequenceIssueInfoItem/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3814,7 +3814,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -3822,7 +3822,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_AppvRequirement/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -3831,13 +3831,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_AppvRequirementStatus/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_AppvRequirementStatus__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3849,7 +3849,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_AppvRequirementStatus/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3859,7 +3859,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_AppVVirtualMachineConfig/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3887,7 +3887,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_AppVVirtualMachineInfo/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3914,7 +3914,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_AppVVirtualMachineType/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -3923,7 +3923,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_IAppVLaunchTestVirtualMachine/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3935,7 +3935,7 @@
         
     <url>
      <loc>None/Events_T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_IAppVLaunchTestVirtualMachine/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3945,7 +3945,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_ISolutionVirtualMachine/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3961,7 +3961,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_ITaskStatusDispatcher/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3977,7 +3977,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_IVirtualMachine/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -3993,7 +3993,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_IVirtualMachineConsole/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4015,13 +4015,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_OsInformationResult/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_OsInformationResult__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4033,7 +4033,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_OsInformationResult/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4043,13 +4043,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_SolutionVmTaskAppvCheckResult/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_SolutionVmTaskAppvCheckResult__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4071,25 +4071,25 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_SolutionVmTaskVmToolsCheckResult/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_SolutionVmTaskVmToolsCheckResult__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_SolutionVmTaskVmToolsCheckResult/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_SolutionVmTaskVmToolsCheckResult/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4099,13 +4099,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_TaskStatus/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_TaskStatus__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4117,7 +4117,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_TaskStatus/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4126,7 +4126,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_TaskStatus_State/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -4135,13 +4135,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_TaskStatusEventArgs/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_TaskStatusEventArgs__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4153,7 +4153,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_TaskStatusEventArgs/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4163,7 +4163,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_VirtualMachines_VirtualMachine/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4178,7 +4178,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_AppV_Workflow/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -4187,7 +4187,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Workflow_ApplicationWorkflow/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4209,7 +4209,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Workflow_AppVSolutionWorkflow/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4231,7 +4231,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Workflow_ProcessingIssue/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4258,7 +4258,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Workflow_Severity/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -4266,7 +4266,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Workflow_State/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -4275,7 +4275,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Workflow_StepLogEntry/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4303,7 +4303,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_AppV_Workflow_WorkflowStep/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4330,7 +4330,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_BuildAssessment/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -4339,19 +4339,19 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentAnalysisDataProvider__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4361,25 +4361,25 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentApplicationsDictionary/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentApplicationsDictionary__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentApplicationsDictionary/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentApplicationsDictionary/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4389,7 +4389,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentIssuesReport/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4411,7 +4411,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentReport/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4433,7 +4433,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentReportApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4454,7 +4454,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentReportApplicationCategory/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -4463,13 +4463,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentServer/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentServer__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4481,7 +4481,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentServer/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4491,7 +4491,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolution/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4519,7 +4519,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolutionEdit/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4541,7 +4541,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolutionService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4557,7 +4557,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolutionTemplate/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4585,7 +4585,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildAssessmentSolutionTemplateService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4601,7 +4601,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_BuildIssue/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4617,7 +4617,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_Constants/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4639,7 +4639,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_IBuildAssessmentSolutionConfig_1/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4655,7 +4655,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_IOsBuild/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4671,7 +4671,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_IssueData/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4683,7 +4683,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_IssueData/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4693,7 +4693,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_IssuesGroup/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4705,7 +4705,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_IssuesGroup/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4715,7 +4715,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_OsBuild/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4727,7 +4727,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_OsBuild/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4736,7 +4736,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_ReferenceBuildMode/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -4745,7 +4745,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_BuildAssessment_ReportingRequirementsChecker/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4760,7 +4760,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_Interop/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -4769,7 +4769,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Interop_Chart/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4781,7 +4781,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_Interop_Chart/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4791,7 +4791,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Interop_ChartService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4807,7 +4807,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Interop_Constants/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4823,19 +4823,19 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Interop_InteropAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_Interop_InteropAnalysisDataProvider__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_Interop_InteropAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4845,13 +4845,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Interop_InteropServer/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_Interop_InteropServer__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4863,7 +4863,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_Interop_InteropServer/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4873,7 +4873,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Interop_InteropSolution/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4901,7 +4901,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Interop_InteropSolutionEdit/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4923,7 +4923,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Interop_InteropSolutionService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4939,7 +4939,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Interop_InteropSolutionTemplate/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4967,7 +4967,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Interop_InteropSolutionTemplateService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4983,7 +4983,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Interop_ISolutionConfig/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -4998,7 +4998,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -5007,7 +5007,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_Constants/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5023,7 +5023,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_IOsBuild/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5039,7 +5039,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_IPatchImpactAnalysisSolutionConfig_1/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5055,7 +5055,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_OsBuild/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5067,7 +5067,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_OsBuild/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5077,19 +5077,19 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactAnalysisDataProvider__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5099,7 +5099,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactAnalysisSolution/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5127,7 +5127,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactAnalysisSolutionEdit/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5149,7 +5149,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactAnalysisSolutionService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5165,7 +5165,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactAnalysisSolutionTemplate/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5193,7 +5193,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactAnalysisSolutionTemplateService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5209,13 +5209,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactServer/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactServer__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5227,7 +5227,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_PatchImpactAnalysis_PatchImpactServer/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5236,7 +5236,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_Xen_Common/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -5244,7 +5244,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_ApplicationState/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -5253,13 +5253,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_Constants/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_Xen_Common_Constants__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5280,7 +5280,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_Constants_XenAppVersion/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -5288,7 +5288,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_Constants_XenDesktopVersion/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -5296,7 +5296,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_DesktopMigrationOS/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -5305,7 +5305,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_IApplicationRuleModuleState/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5321,7 +5321,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_IPlatform/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5337,7 +5337,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_IPlatformImage/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5353,7 +5353,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_IXenServer_2/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5369,7 +5369,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_IXenSolutionConfig/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5385,7 +5385,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_IXenSolutionService_2/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5401,13 +5401,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_MergedReportedApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_Xen_Common_MergedReportedApplication__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5419,7 +5419,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_Xen_Common_MergedReportedApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5435,7 +5435,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_OsHelper/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5451,13 +5451,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenAnalysisDataProvider__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5478,7 +5478,7 @@
     
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenReportApplicationCategory/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -5487,13 +5487,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenReportedApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenReportedApplication__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5515,25 +5515,25 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenReportedApplicationCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenReportedApplicationCollection__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenReportedApplicationCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenReportedApplicationCollection/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5543,13 +5543,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenSolution/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenSolution__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5571,13 +5571,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenSolutionEdit/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenSolutionEdit__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5605,13 +5605,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenSolutionPlatform/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenSolutionPlatform__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5639,13 +5639,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenSolutionPlatformImage/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenSolutionPlatformImage__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5667,13 +5667,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenSolutionReport/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_Xen_Common_XenSolutionReport__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5694,7 +5694,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_XenAdoption/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -5703,7 +5703,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionEdit/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5731,25 +5731,25 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionMergedReportedApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionMergedReportedApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionMergedReportedApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Fields_T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionMergedReportedApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5759,13 +5759,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionServer/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionServer__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5787,7 +5787,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolution/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5815,7 +5815,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionPlatform/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5843,7 +5843,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionPlatformImage/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5871,19 +5871,19 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionReport/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionReport/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionReport/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5893,7 +5893,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5909,7 +5909,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionTemplate/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5937,7 +5937,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenAdoption_XenAdoptionSolutionTemplateService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5952,7 +5952,7 @@
     
     <url>
      <loc>None/N_Citrix_SDK_AppDNA_Solutions_XenUpgrade/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -5961,13 +5961,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeAnalysisDataProvider__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5979,7 +5979,7 @@
         
     <url>
      <loc>None/Fields_T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeAnalysisDataProvider/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -5989,7 +5989,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeEdit/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -6007,7 +6007,7 @@
         
     <url>
      <loc>None/Fields_T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeEdit/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -6017,25 +6017,25 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeMergedReportedApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeMergedReportedApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeMergedReportedApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Fields_T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeMergedReportedApplication/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -6045,13 +6045,13 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeServer/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeServer__ctor/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -6063,7 +6063,7 @@
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeServer/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -6073,7 +6073,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolution/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -6101,7 +6101,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionPlatform/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -6129,7 +6129,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionPlatformImage/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -6157,19 +6157,19 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionReport/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Properties_T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionReport/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Methods_T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionReport/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -6179,7 +6179,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -6195,7 +6195,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionTemplate/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -6223,7 +6223,7 @@
         
     <url>
      <loc>None/T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionTemplateService/</loc>
-     <lastmod>2016-12-16</lastmod>
+     <lastmod>2017-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         

@@ -25805,9 +25805,14 @@ The SDK is installed with the AppDNA desktop client. The SDK is available as a s
 <p>Run the .NET project as a 32 bit x86 process.</p>
 </li>
 <li>
-<p>Reference the <strong>Citrix.SDK.AppDNA.dll</strong> from within your project. The dll is located in the Client folder of the AppDNA installation, typically: %ProgramFiles(x86)%\Citrix\AppDNA\Client\Citrix.SDK.AppDNA.dll.</p>
+<p>Reference the <strong>Citrix.SDK.AppDNA.dll</strong> from within your project. The dll is located in the Client folder of the AppDNA installation,
+ typically: %ProgramFiles%\Citrix\AppDNA\Client\Citrix.SDK.AppDNA.dll.</p>
 </li>
 </ul>
+<div class="admonition tip">
+<p class="admonition-title">Note<p>For AppDNA SDK versions 7.12 and earlier, the dll is located at: %ProgramFiles(x86)%\Citrix\AppDNA\Client\Citrix.SDK.AppDNA.dll.</p>
+</p>
+</div>
 <p>Once referenced, Visual Studio imports all the files that the SDK dll depends upon into your application's build output folder. If you distribute your application, you must also distribute these files with the application, including the following files which are not automatically imported by Visual Studio:</p>
 <ul>
 <li>
