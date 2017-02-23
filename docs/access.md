@@ -1,7 +1,11 @@
 #Develop using the SDKThis topic explains how to access and use the AppDNA SDK.For more information about the data available from the SDK, see Data available using the SDK.
 You can download a sample solution that uses the SDK from []. For code samples that you can use as a basis for your own scripts, go to [AppDNA SDK discussion forum](hhttp://discussions.citrix.com/forum/1406-app-dna-sdk/).The SDK is installed with the AppDNA desktop client. The SDK is available as a set of .NET 4.0 assemblies and some associated files. If you are developing a .NET application that uses the SDK, you must:
 * Run the .NET project as a 32 bit x86 process.
-* Reference the **Citrix.SDK.AppDNA.dll** from within your project. The dll is located in the Client folder of the AppDNA installation, typically: %ProgramFiles(x86)%\Citrix\AppDNA\Client\Citrix.SDK.AppDNA.dll.
+* Reference the **Citrix.SDK.AppDNA.dll** from within your project. The dll is located in the Client folder of the AppDNA installation,
+ typically: %ProgramFiles%\Citrix\AppDNA\Client\Citrix.SDK.AppDNA.dll.
+
+!!!tip "Note"
+		For AppDNA SDK versions 7.12 and earlier, the dll is located at: %ProgramFiles(x86)%\Citrix\AppDNA\Client\Citrix.SDK.AppDNA.dll.
 Once referenced, Visual Studio imports all the files that the SDK dll depends upon into your application's build output folder. If you distribute your application, you must also distribute these files with the application, including the following files which are not automatically imported by Visual Studio:* bzip2.dll
 * MsiContentExtractor.dll
 * Mono.Cecil.dll
