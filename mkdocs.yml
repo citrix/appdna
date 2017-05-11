@@ -1,6 +1,6 @@
 site_name: Citrix AppDNA SDK Reference
 site_description: Reference guide for Citrix AppDNA SDK 7.13
-theme_dir: theme_multi
+theme_dir: citrix-sdk
 markdown_extensions:
   - admonition
   - codehilite
