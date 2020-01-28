@@ -2,6 +2,7 @@
 site_name: Citrix AppDNA SDK Reference
 site_description: Reference guide for Citrix AppDNA SDK 7.13
 site_title: Developer Docs
+site_url: https://developer-docs.citrix.com
 
 # Copyright
 copyright: 'Copyright &copy; 1999-2019 Citrix Systems, Inc. All rights reserved. '
@@ -3633,3 +3634,4 @@ nav:
     - XenUpgradeSolutionTemplateService Methods: Methods_T_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionTemplateService.md
     - XenUpgradeSolutionTemplateService.Add Method: M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionTemplateService_Add.md
     - XenUpgradeSolutionTemplateService.Get Method: M_Citrix_SDK_AppDNA_Solutions_XenUpgrade_XenUpgradeSolutionTemplateService_Get.md
+- Questions?: https://discussions.citrix.com/forum/1385-citrix-developer-exchange/
