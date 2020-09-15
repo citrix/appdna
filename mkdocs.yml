@@ -5,7 +5,7 @@ site_title: Developer Docs
 site_url: https://developer-docs.citrix.com
 
 # Copyright
-copyright: '&copy; 1999-2019 Citrix Systems, Inc. All rights reserved. '
+copyright: '&copy; 1999-2020 Citrix Systems, Inc. All rights reserved. '
 
 # Feedback
 
@@ -37,8 +37,8 @@ theme:
   features:
     - tabs: false
   palette:
-    primary: white
-    accent: blue
+    primary: teal
+    accent: teal
   font: false
   favicon: https://docs.citrix.com/assets/images/favicon.ico
   logo: https://developer-docs.citrix.com/_static/logo.svg
